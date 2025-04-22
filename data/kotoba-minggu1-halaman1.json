@@ -1,218 +1,62 @@
 [
   {
-    "kotoba": "配る",
-    "kana": "くばる",
-    "arti": "mendistribusikan/membagikan",
-    "kategori": "kata kerja"
+    "kotoba": "昨日",
+    "kana": "きのう",
+    "arti": "kemarin",
+    "contoh": "昨日は雨が降りました。\n昨日の試験は難しかった。\n昨日、友達と映画を見た。"
   },
   {
-    "kotoba": "ちらし",
-    "kana": "ちらし",
-    "arti": "pamflet/leaflet",
-    "kategori": "kata benda"
+    "kotoba": "とても",
+    "kana": "とても",
+    "arti": "sangat",
+    "contoh": "このケーキはとても甘いです。\n彼女はとても親切です。\n外はとても寒い。"
   },
   {
-    "kotoba": "石油",
-    "kana": "せきゆ",
-    "arti": "minyak bumi",
-    "kategori": "kata benda"
+    "kotoba": "寒い",
+    "kana": "さむい",
+    "arti": "dingin",
+    "contoh": "冬はとても寒いです。\n今朝は寒くて起きられなかった。\n寒い日は鍋が食べたい。"
   },
   {
-    "kotoba": "輸入",
-    "kana": "ゆにゅう",
-    "arti": "impor",
-    "kategori": "kata benda"
+    "kotoba": "お菓子",
+    "kana": "おかし",
+    "arti": "kue, camilan",
+    "contoh": "子供たちはお菓子が大好きです。\nスーパーでお菓子を買いました。\nお菓子を友達と分けました。"
   },
   {
-    "kotoba": "卒業式",
-    "kana": "そつぎょうしき",
-    "arti": "upacara wisuda",
-    "kategori": "kata benda"
+    "kotoba": "美味しい",
+    "kana": "おいしい",
+    "arti": "enak",
+    "contoh": "このラーメンはとても美味しいです。\n母の料理は美味しいです。\nそのレストランの寿司は美味しかった。"
   },
   {
-    "kotoba": "父母",
-    "kana": "ふぼ",
-    "arti": "orang tua (ayah-ibu)",
-    "kategori": "kata benda"
+    "kotoba": "鞄",
+    "kana": "かばん",
+    "arti": "tas",
+    "contoh": "この鞄は新しいです。\n鞄の中に本があります。\n青い鞄が欲しいです。"
   },
   {
-    "kotoba": "主要",
-    "kana": "しゅよう",
-    "arti": "utama/primary",
-    "kategori": "kata sifat"
+    "kotoba": "重い",
+    "kana": "おもい",
+    "arti": "berat",
+    "contoh": "この箱はとても重いです。\n荷物が重くて運べない。\n重いバッグを持って歩いた。"
   },
   {
-    "kotoba": "産業",
-    "kana": "さんぎょう",
-    "arti": "industri",
-    "kategori": "kata benda"
+    "kotoba": "漢字",
+    "kana": "かんじ",
+    "arti": "kanji",
+    "contoh": "毎日漢字を勉強しています。\n漢字の書き方を教えてください。\nこの漢字は読めません。"
   },
   {
-    "kotoba": "加熱",
-    "kana": "かねつ",
-    "arti": "pemanasan",
-    "kategori": "kata benda"
+    "kotoba": "テスト",
+    "kana": "てすと",
+    "arti": "ujian",
+    "contoh": "明日は数学のテストです。\nテストの結果が良かったです。\n彼はテストの準備をしている。"
   },
   {
-    "kotoba": "深い",
-    "kana": "ふかい",
-    "arti": "dalam (kedalaman)",
-    "kategori": "kata sifat"
-  },
-  {
-    "kotoba": "感情的",
-    "kana": "かんじょうてき",
-    "arti": "emosional",
-    "kategori": "kata sifat"
-  },
-  {
-    "kotoba": "残す",
-    "kana": "のこす",
-    "arti": "menyisakan",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "順番",
-    "kana": "じゅんばん",
-    "arti": "urutan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "勤める",
-    "kana": "つとめる",
-    "arti": "bekerja (di suatu instansi)",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "左右",
-    "kana": "さゆう",
-    "arti": "kiri-kanan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "負ける",
-    "kana": "まける",
-    "arti": "kalah",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "過去",
-    "kana": "かこ",
-    "arti": "masa lalu",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "逆",
-    "kana": "ぎゃく",
-    "arti": "terbalik/kebalikan",
-    "kategori": "kata sifat"
-  },
-  {
-    "kotoba": "運休",
-    "kana": "うんきゅう",
-    "arti": "penundaan operasi (transportasi)",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "大雪",
-    "kana": "おおゆき",
-    "arti": "salju lebat",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "文句",
-    "kana": "もんく",
-    "arti": "keluhan/protes",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "試合",
-    "kana": "しあい",
-    "arti": "pertandingan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "資料",
-    "kana": "しりょう",
-    "arti": "materi/dokumen referensi",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "銀行",
-    "kana": "ぎんこう",
-    "arti": "bank",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "川",
-    "kana": "かわ",
-    "arti": "sungai",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "生徒",
-    "kana": "せいと",
-    "arti": "siswa",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "町",
-    "kana": "まち",
-    "arti": "kota/kawasan perkotaan",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "電車",
-    "kana": "でんしゃ",
-    "arti": "kereta listrik",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "調べる",
-    "kana": "しらべる",
-    "arti": "meneliti/memeriksa",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "食べる",
-    "kana": "たべる",
-    "arti": "makan",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "ポケット",
-    "kana": "ぽけっと",
-    "arti": "saku",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "ページ",
-    "kana": "ぺーじ",
-    "arti": "halaman",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "例",
-    "kana": "れい",
-    "arti": "contoh",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "朝",
-    "kana": "あさ",
-    "arti": "pagi",
-    "kategori": "kata benda"
-  },
-  {
-    "kotoba": "見る",
-    "kana": "みる",
-    "arti": "melihat",
-    "kategori": "kata kerja"
-  },
-  {
-    "kotoba": "産業",
-    "kana": "さんぎょう",
-    "arti": "industri",
-    "kategori": "kata benda"
+    "kotoba": "難しい",
+    "kana": "むずかしい",
+    "arti": "sulit",
+    "contoh": "この問題は難しいです。\n日本語の文法は難しいと思います。\n難しい本を読んでいます。"
   }
 ]
