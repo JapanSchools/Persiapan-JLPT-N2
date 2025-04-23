@@ -242,7 +242,7 @@ tr:hover {
     color: var(--primary);
 }
 
-.col-no { width: 45px; }
+.col-no { width: 47px; }
 .col-kotoba { width: 25%; }
 .col-kana { width: 30%; }
 .col-arti { width: 35%; }
@@ -395,7 +395,9 @@ copyright {
 
     .container {
     width: 100%;
-    }
+    max-width: 100% !important;
+    padding: 10px 15px;
+}
 
     th, td {
         padding: 10px 8px;
