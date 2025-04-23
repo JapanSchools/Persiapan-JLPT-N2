@@ -151,9 +151,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function showPopup(text) {
-        popupText.textContent = text;
-        popupModal.style.display = "block";
-    }
+    popupText.innerHTML = formatInfo(text); // pakai innerHTML agar HTML dirender
+    popupModal.style.display = "block";
+}
 
     function formatInfo(text) {
     // Ubah **teks** menjadi <strong>teks</strong>
