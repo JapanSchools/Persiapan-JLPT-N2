@@ -242,12 +242,12 @@ tr:hover {
     color: var(--primary);
 }
 
-.col-no { width: 50px; }
+.col-no { width: 55px; }
 .col-kotoba { width: 25%; }
 .col-kana { width: 30%; }
 .col-arti { width: 35%; }
-.col-info { width: 55px; }
-.col-action { width: 55px; }
+.col-info { width: 65px; }
+.col-action { width: 65px; }
 
 .pagination-container {
     display: flex;
