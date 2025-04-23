@@ -174,7 +174,7 @@ button:disabled {
 }
 
 table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
     table-layout: fixed;
     margin-top: 20px;
@@ -391,6 +391,10 @@ copyright {
 
     .filter-group, .items-per-page {
         justify-content: space-between;
+    }
+
+    table {
+    width: 100%;
     }
 
     th, td {
