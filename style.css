@@ -242,7 +242,7 @@ tr:hover {
     color: var(--primary);
 }
 
-.col-no { width: 55px; }
+.col-no { width: 45px; }
 .col-kotoba { width: 25%; }
 .col-kana { width: 30%; }
 .col-arti { width: 35%; }
