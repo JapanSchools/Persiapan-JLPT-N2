@@ -155,6 +155,16 @@ document.addEventListener('DOMContentLoaded', function () {
         popupModal.style.display = "block";
     }
 
+    function formatInfo(text) {
+    // Ubah **teks** menjadi <strong>teks</strong>
+    let formatted = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+    // Ubah \n menjadi <br> untuk baris baru
+    formatted = formatted.replace(/\n/g, '<br>');
+
+    return formatted;
+}
+
     closeBtn.addEventListener("click", () => {
         popupModal.style.display = "none";
     });
