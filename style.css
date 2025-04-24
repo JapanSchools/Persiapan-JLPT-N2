@@ -1,11 +1,11 @@
 :root {
-    --primary: #E74C3C;
-    --secondary: #3498DB;
-    --accent: #F1C40F;
-    --light: #F5F5F5;
-    --dark: #2C3E50;
-    --error: #E74C3C;
-    --success: #2ECC71;
+--primary: #D63031;     /* Merah tua lembut, lebih kalem dari E74C3C */
+--secondary: #2980B9;   /* Biru medium yang profesional dan seimbang */
+--accent: #F39C12;      /* Kuning-oranye yang hangat dan tidak terlalu mencolok */
+--light: #FAFAFA;       /* Putih abu-abu lembut, lebih terang dari F5F5F5 */
+--dark: #34495E;        /* Biru gelap, elegan dan enak dibaca */
+--error: #C0392B;       /* Merah error yang lebih kalem dari primary, biar nggak tabrakan */
+--success: #27AE60;     /* Hijau stabil, masih menyegarkan tapi tidak terlalu neon */
 }
 
 * {
