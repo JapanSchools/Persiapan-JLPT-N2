@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function () {
     let vocabularyData = [];
     let filteredData = [];
@@ -52,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
         tbody.innerHTML = '';
 
         if (filteredData.length === 0) {
-            tbody.innerHTML = '<tr><td colspan="6" class="no-data">Tidak ada data</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="5" class="no-data">Tidak ada data</td></tr>';
             return;
         }
 
@@ -61,24 +62,23 @@ document.addEventListener('DOMContentLoaded', function () {
             const globalIndex = (currentPage - 1) * itemsPerPage + index + 1;
             const row = document.createElement('tr');
             row.innerHTML = `
-                <td>${globalIndex}</td>
-                <td>${item.kotoba || '-'}</td>
-                <td>${item.kana || '-'}</td>
-                <td>${item.arti || '-'}</td>
-                <td>
-                    <i class="fas fa-info-circle info-btn" title="Lihat contoh" data-contoh="${item.contoh || ''}"></i>
-                </td>
-                <td>
-                    <i class="fas fa-eye action-btn" title="Sembunyikan kolom baris ini"></i>
-                </td>
-            `;
+    <td>${item.kotoba || '-'}</td>
+    <td>${item.kana || '-'}</td>
+    <td>${item.arti || '-'}</td>
+    <td>
+        <i class="fas fa-info-circle info-btn" title="Lihat contoh" data-contoh="${item.contoh || ''}"></i>
+    </td>
+    <td>
+        <i class="fas fa-eye action-btn" title="Sembunyikan kolom baris ini"></i>
+    </td>
+`;
             tbody.appendChild(row);
 
             // Event listener untuk tombol blur
             row.querySelector('.action-btn').addEventListener('click', (e) => {
                 const targetRow = e.target.closest('tr');
                 const cells = targetRow.querySelectorAll('td');
-                [1, 2, 3].forEach(i => cells[i].classList.toggle('blurred'));
+                [0, 1, 2].forEach(i => cells[i].classList.toggle('blurred'));
                 e.target.classList.toggle('fa-eye');
                 e.target.classList.toggle('fa-eye-slash');
             });
@@ -137,9 +137,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function getColumnIndex(columnName) {
         const columns = {
-            'kotoba': 2,
-            'kana': 3,
-            'arti': 4
+            'kotoba': 1,
+            'kana': 2,
+            'arti': 3
         };
         return columns[columnName] || 0;
     }
