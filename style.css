@@ -1,11 +1,12 @@
 :root {
---primary: #6C5CE7;     /* Ungu pastel modern, fresh dan unik */
---secondary: #00B894;   /* Hijau teal yang adem, cocok untuk interaksi */
---accent: #FAB1A0;      /* Pink pastel, hangat dan ringan */
---light: #FDFEFE;       /* Hampir putih, sangat ringan untuk background */
---dark: #2D3436;        /* Abu gelap netral, clean dan tegas */
---error: #E17055;       /* Oranye kemerahan lembut, beda dari primary */
---success: #55EFC4;     /* Hijau mint soft yang menyegarkan */
+--primary: #3E8E7E;     /* Hijau toska lembut, kalem dan profesional */
+--secondary: #5D6D7E;   /* Abu kebiruan, netral dan versatile */
+--accent: #D4A373;      /* Coklat karamel pastel, hangat dan ramah */
+--light: #F9F9F9;       /* Putih bersih dengan sedikit tone hangat */
+--dark: #2F3E46;        /* Abu gelap kehijauan, elegan dan tidak menyilaukan */
+--error: #C94C4C;       /* Merah wine soft, tegas tapi nggak norak */
+--success: #6A994E;     /* Hijau daun kalem, memberi kesan alami dan positif */
+
 }
 
 * {
