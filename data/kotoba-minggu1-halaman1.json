@@ -1,62 +1,361 @@
 [
   {
-  "kotoba": "昨日",
-  "kana": "きのう",
-  "arti": "kemarin",
-  "contoh": "昨日は雨が降りました。\nKinō wa ame ga furimashita.\nKemarin, hujan turun.\n\n昨日の試験は難しかった。\nKinō no shiken wa muzukashikatta.\nUjian kemarin</strong> sulit。\n\n昨日、友達と映画を見た。\nKinō, tomodachi to eiga o mita.\nKemarin, aku menonton film bersama teman."
-},
-  {
-    "kotoba": "とても",
-    "kana": "とても",
-    "arti": "sangat",
-    "contoh": "このケーキはとても甘いです。\n彼女はとても親切です。\n外はとても寒い。"
+    "kotoba": "優秀",
+    "kana": "ゆうしゅう",
+    "arti": "unggul, brilian",
+    "contoh": "彼は優秀な学生です。\nKare wa yūshū na gakusei desu.\nDia adalah siswa yang unggul.\n\n優秀な成績を収めた。\nYūshū na seiseki o osameta.\nMeraih prestasi yang brilian."
   },
   {
-    "kotoba": "寒い",
-    "kana": "さむい",
-    "arti": "dingin",
-    "contoh": "冬はとても寒いです。\n今朝は寒くて起きられなかった。\n寒い日は鍋が食べたい。"
+    "kotoba": "実践",
+    "kana": "じっせん",
+    "arti": "praktik, implementasi",
+    "contoh": "理論を実践に移す。\nRiron o jissen ni utsusu.\nMenerapkan teori ke dalam praktik.\n\n実践的な経験が重要です。\nJissenteki na keiken ga jūyō desu.\nPengalaman praktis itu penting."
   },
   {
-    "kotoba": "お菓子",
-    "kana": "おかし",
-    "arti": "kue, camilan",
-    "contoh": "子供たちはお菓子が大好きです。\nスーパーでお菓子を買いました。\nお菓子を友達と分けました。"
+    "kotoba": "社員",
+    "kana": "しゃいん",
+    "arti": "karyawan",
+    "contoh": "彼は新しい社員です。\nKare wa atarashii shain desu.\nDia adalah karyawan baru.\n\n社員の福利厚生が改善された。\nShain no fukurikōsei ga kaizen sareta.\nKesejahteraan karyawan telah ditingkatkan."
   },
   {
-    "kotoba": "美味しい",
-    "kana": "おいしい",
-    "arti": "enak",
-    "contoh": "このラーメンはとても美味しいです。\n母の料理は美味しいです。\nそのレストランの寿司は美味しかった。"
+    "kotoba": "伸ばす",
+    "kana": "のばす",
+    "arti": "memanjangkan, meluruskan",
+    "contoh": "髪を伸ばしています。\nKami o nobashite imasu.\nSedang memanjangkan rambut.\n\n腕を前に伸ばしてください。\nUde o mae ni nobashite kudasai.\nSilakan luruskan tangan ke depan."
   },
   {
-    "kotoba": "鞄",
-    "kana": "かばん",
-    "arti": "tas",
-    "contoh": "この鞄は新しいです。\n鞄の中に本があります。\n青い鞄が欲しいです。"
-  },
-  {
-    "kotoba": "重い",
-    "kana": "おもい",
-    "arti": "berat",
-    "contoh": "この箱はとても重いです。\n荷物が重くて運べない。\n重いバッグを持って歩いた。"
-  },
-  {
-    "kotoba": "漢字",
-    "kana": "かんじ",
-    "arti": "kanji",
-    "contoh": "毎日漢字を勉強しています。\n漢字の書き方を教えてください。\nこの漢字は読めません。"
-  },
-  {
-    "kotoba": "テスト",
-    "kana": "てすと",
-    "arti": "ujian",
-    "contoh": "明日は数学のテストです。\nテストの結果が良かったです。\n彼はテストの準備をしている。"
-  },
-  {
-    "kotoba": "難しい",
-    "kana": "むずかしい",
-    "arti": "sulit",
-    "contoh": "この問題は難しいです。\n日本語の文法は難しいと思います。\n難しい本を読んでいます。"
+    "kotoba": "体操",
+    "kana": "たいそう",
+    "arti": "senam",
+    "contoh": "毎朝体操をしています。\nMaiasa taisō o shite imasu.\nSaya melakukan senam setiap pagi.\n\n体操の大会に参加した。\nTaisō no taikai ni sanka shita.\nIkut serta dalam kompetisi senam."
   }
-]
+  {
+    "kotoba": "行う",
+    "kana": "おこなう",
+    "arti": "melaksanakan",
+    "contoh": "試験を行います。\nShiken o okonaimasu.\nAkan melaksanakan ujian.\n\n会議は午後に行われます。\nKaigi wa gogo ni okonawaremasu.\nRapat akan dilaksanakan sore hari."
+  },
+  {
+    "kotoba": "違いない",
+    "kana": "ちがいない",
+    "arti": "pasti, tidak salah",
+    "contoh": "彼が犯人に違いない。\nKare ga hannin ni chigai nai.\nPasti dia pelakunya.\n\nこれは本物に違いない。\nKore wa honmono ni chigai nai.\nIni pasti barang asli."
+  },
+  {
+    "kotoba": "衣装",
+    "kana": "いしょう",
+    "arti": "kostum",
+    "contoh": "パーティー用の衣装を選ぶ。\nPātī-yō no ishō o erabu.\nMemilih kostum untuk pesta.\n\n舞台の衣装が華やかだ。\nButai no ishō ga hanayaka da.\nKostum panggungnya mencolok."
+  },
+  {
+    "kotoba": "警備",
+    "kana": "けいび",
+    "arti": "penjagaan, keamanan",
+    "contoh": "建物の警備が厳しい。\nTatemono no keibi ga kibishii.\nKeamanan gedung sangat ketat.\n\n警備員が入口に立っている。\nKeibiin ga iriguchi ni tatte iru.\nPetugas keamanan berdiri di pintu masuk."
+  },
+  {
+    "kotoba": "敬う",
+    "kana": "うやまう",
+    "arti": "menghormati",
+    "contoh": "年上の人を敬うべきだ。\nToshiue no hito o uyamau beki da.\nSebaiknya menghormati orang yang lebih tua.\n\n彼は先生を深く敬っている。\nKare wa sensei o fukaku uyamatte iru.\nDia sangat menghormati gurunya."
+  }
+  {
+    "kotoba": "受講",
+    "kana": "じゅこう",
+    "arti": "mengikuti kelas",
+    "contoh": "来週から日本語講座を受講します。\nRaishū kara nihongo kōza o jukō shimasu.\nSaya akan mengikuti kursus bahasa Jepang mulai minggu depan。\n\n多くの学生がこの講義を受講している。\nŌku no gakusei ga kono kōgi o jukō shite iru.\nBanyak siswa mengikuti kuliah ini."
+  },
+  {
+    "kotoba": "厳しい",
+    "kana": "きびしい",
+    "arti": "keras, ketat",
+    "contoh": "彼の両親はとても厳しい。\nKare no ryōshin wa totemo kibishii.\nOrang tuanya sangat ketat.\n\nこの学校には厳しい規則がある。\nKono gakkō ni wa kibishii kisoku ga aru.\nSekolah ini memiliki peraturan yang ketat."
+  },
+  {
+    "kotoba": "申し込み",
+    "kana": "もうしこみ",
+    "arti": "pendaftaran",
+    "contoh": "イベントの申し込みは明日までです。\nIbento no mōshikomi wa ashita made desu.\nPendaftaran acara sampai besok.\n\n申し込み用紙を書いてください。\nMōshikomi yōshi o kaite kudasai.\nSilakan isi formulir pendaftaran."
+  },
+  {
+    "kotoba": "被災者",
+    "kana": "ひさいしゃ",
+    "arti": "korban bencana",
+    "contoh": "地震の被災者に支援を送った。\nJishin no hisaisha ni shien o okutta.\nMengirim bantuan kepada korban gempa.\n\n被災者のための避難所が設置された。\nHisaisha no tame no hinanjo ga secchi sareta.\nTempat pengungsian didirikan untuk para korban."
+  },
+  {
+    "kotoba": "訓練",
+    "kana": "くんれん",
+    "arti": "pelatihan",
+    "contoh": "毎朝、訓練を受けています。\nMaiasa, kunren o uketeimasu.\nSaya mengikuti pelatihan setiap pagi.\n\n消防士の訓練はとても厳しい。\nShōbōshi no kunren wa totemo kibishii.\nPelatihan pemadam kebakaran sangat ketat."
+  }
+  {
+    "kotoba": "伝統",
+    "kana": "でんとう",
+    "arti": "tradisi",
+    "contoh": "日本の伝統文化を学んでいます。\nNihon no dentō bunka o manandeimasu.\nSaya sedang mempelajari budaya tradisional Jepang。\n\nこの祭りは長い伝統があります。\nKono matsuri wa nagai dentō ga arimasu.\nFestival ini memiliki tradisi panjang."
+  },
+  {
+    "kotoba": "規則",
+    "kana": "きそく",
+    "arti": "peraturan",
+    "contoh": "学校には守るべき規則がたくさんある。\nGakkō ni wa mamoru beki kisoku ga takusan aru.\nAda banyak peraturan yang harus dipatuhi di sekolah.\n\n新しい規則が導入された。\nAtarashii kisoku ga dōnyū sareta.\nPeraturan baru telah diperkenalkan."
+  },
+  {
+    "kotoba": "支援",
+    "kana": "しえん",
+    "arti": "bantuan",
+    "contoh": "被災地に多くの支援が届いた。\nHisaichi ni ōku no shien ga todoita.\nBanyak bantuan dikirim ke daerah bencana.\n\n彼は家族の支援を受けて留学した。\nKare wa kazoku no shien o ukete ryūgaku shita.\nDia belajar di luar negeri dengan dukungan keluarganya."
+  },
+  {
+    "kotoba": "祖先",
+    "kana": "そせん",
+    "arti": "leluhur",
+    "contoh": "日本人は祖先を大切にする文化がある。\nNihonjin wa sosen o taisetsu ni suru bunka ga aru.\nOrang Jepang memiliki budaya menghormati leluhur.\n\n祖先の墓を毎年訪ねます。\nSosen no haka o maitoshi tazunemasu.\nSaya mengunjungi makam leluhur setiap tahun."
+  },
+  {
+    "kotoba": "舞台",
+    "kana": "ぶたい",
+    "arti": "panggung",
+    "contoh": "彼は初めて舞台に立った。\nKare wa hajimete butai ni tatta.\nDia berdiri di atas panggung untuk pertama kalinya.\n\nこの物語の舞台は京都です。\nKono monogatari no butai wa Kyōto desu.\nLatar cerita ini adalah Kyoto."
+  }
+  {
+    "kotoba": "選手",
+    "kana": "せんしゅ",
+    "arti": "pemain, atlet",
+    "contoh": "その選手は世界記録を更新した。\nSono senshu wa sekai kiroku o kōshin shita.\nAtlet itu memecahkan rekor dunia.\n\n日本代表の選手が紹介された。\nNihon daihyō no senshu ga shōkai sareta.\nPemain tim nasional Jepang diperkenalkan."
+  },
+  {
+    "kotoba": "接近",
+    "kana": "せっきん",
+    "arti": "pendekatan",
+    "contoh": "台風が日本に接近している。\nTaifū ga Nihon ni sekkin shite iru.\nTopan mendekati Jepang.\n\n敵に気づかれずに接近した。\nTeki ni kidzukarezu ni sekkin shita.\nKami mendekati musuh tanpa diketahui."
+  },
+  {
+    "kotoba": "決着",
+    "kana": "けっちゃく",
+    "arti": "penyelesaian",
+    "contoh": "話し合いで問題が決着した。\nHanashiai de mondai ga kecchaku shita.\nMasalah diselesaikan melalui diskusi.\n\nその試合は引き分けで決着がついた。\nSono shiai wa hikiwake de kecchaku ga tsuita.\nPertandingan itu berakhir imbang."
+  },
+  {
+    "kotoba": "到達",
+    "kana": "とうたつ",
+    "arti": "mencapai",
+    "contoh": "目標に到達するのは簡単ではない。\nMokuhyō ni tōtatsu suru no wa kantan de wa nai.\nMencapai target bukanlah hal yang mudah.\n\nついに山頂に到達した。\nTsui ni sanchō ni tōtatsu shita.\nAkhirnya kami mencapai puncak gunung."
+  },
+  {
+    "kotoba": "衰える",
+    "kana": "おとろえる",
+    "arti": "melemah",
+    "contoh": "年をとると筋力が衰える。\nToshi o toru to kinryoku ga otoroeru.\nSeiring bertambahnya usia, kekuatan otot melemah.\n\n記憶力が衰えてきたと感じる。\nKiokuryoku ga otoroete kita to kanjiru.\nSaya merasa daya ingat saya mulai melemah."
+  }
+  {
+    "kotoba": "要点",
+    "kana": "ようてん",
+    "arti": "poin penting",
+    "contoh": "講義の要点をノートにまとめた。\nKōgi no yōten o nōto ni matometa.\nSaya merangkum poin-poin penting dari kuliah dalam catatan.\n\n発表の前に要点を確認しよう。\nHappyō no mae ni yōten o kakunin shiyō.\nMari kita periksa poin-poin penting sebelum presentasi."
+  },
+  {
+    "kotoba": "減量",
+    "kana": "げんりょう",
+    "arti": "pengurangan",
+    "contoh": "健康のために減量を始めた。\nKenkō no tame ni genryō o hajimeta.\nSaya mulai diet untuk kesehatan.\n\n彼は試合に向けて減量中だ。\nKare wa shiai ni mukete genryōchū da.\nDia sedang menurunkan berat badan untuk pertandingan."
+  },
+  {
+    "kotoba": "節約",
+    "kana": "せつやく",
+    "arti": "menghemat",
+    "contoh": "電気を節約するようにしている。\nDenki o setsuyaku suru yō ni shite iru.\nSaya berusaha menghemat listrik.\n\n旅行のためにお金を節約しています。\nRyokō no tame ni okane o setsuyaku shiteimasu.\nSaya menghemat uang untuk perjalanan."
+  },
+  {
+    "kotoba": "省略",
+    "kana": "しょうりゃく",
+    "arti": "penghilangan bagian",
+    "contoh": "説明を省略して話を進めた。\nSetsumei o shōryaku shite hanashi o susumeta.\nPembicaraan dilanjutkan tanpa penjelasan.\n\n文章の一部を省略して書いた。\nBunshō no ichibu o shōryaku shite kaita.\nSaya menulis dengan menghilangkan sebagian kalimat."
+  },
+  {
+    "kotoba": "実際",
+    "kana": "じっさい",
+    "arti": "kenyataan",
+    "contoh": "実際に見てみないと分からない。\nJissai ni mite minai to wakaranai.\nKita tidak akan tahu sampai benar-benar melihatnya.\n\n彼は実際にはとても親切な人です。\nKare wa jissai ni wa totemo shinsetsu na hito desu.\nDia sebenarnya adalah orang yang sangat baik."
+  }
+  {
+    "kotoba": "考え抜く",
+    "kana": "かんがえぬく",
+    "arti": "memikirkan sungguh-sungguh",
+    "contoh": "彼は成功する方法を考え抜いた。\nKare wa seikō suru hōhō o kangae nukita.\nDia memikirkan secara mendalam cara untuk sukses.\n\nこの問題について一晩中考え抜いた。\nKono mondai ni tsuite hitobanjū kangae nukita.\nSaya memikirkan masalah ini sepanjang malam."
+  },
+  {
+    "kotoba": "怖がる",
+    "kana": "こわがる",
+    "arti": "takut",
+    "contoh": "子供は暗い部屋を怖がっている。\nKodomo wa kurai heya o kowagatte iru.\nAnak-anak takut pada ruangan yang gelap.\n\n彼女は犬を怖がります。\nKanojo wa inu o kowagarimasu.\nDia takut pada anjing."
+  },
+  {
+    "kotoba": "労働",
+    "kana": "ろうどう",
+    "arti": "pekerjaan",
+    "contoh": "長時間の労働は健康に悪い。\nChōjikan no rōdō wa kenkō ni warui.\nKerja dalam waktu lama buruk bagi kesehatan.\n\n労働条件を改善する必要がある。\nRōdō jōken o kaizen suru hitsuyō ga aru.\nPerlu memperbaiki kondisi kerja."
+  },
+  {
+    "kotoba": "勤務",
+    "kana": "きんむ",
+    "arti": "tugas kerja",
+    "contoh": "彼は病院で勤務している。\nKare wa byōin de kinmu shite iru.\nDia bekerja di rumah sakit.\n\n勤務時間は午前9時からです。\nKinmu jikan wa gozen kuji kara desu.\nJam kerja dimulai dari pukul 9 pagi."
+  },
+  {
+    "kotoba": "支払い",
+    "kana": "しはらい",
+    "arti": "pembayaran",
+    "contoh": "今月の家賃の支払いを忘れた。\nKongetsu no yachin no shiharai o wasureta.\nSaya lupa membayar sewa bulan ini.\n\nレジで支払いを済ませた。\nReji de shiharai o sumaseta.\nSaya menyelesaikan pembayaran di kasir."
+  }
+  {
+    "kotoba": "解決",
+    "kana": "かいけつ",
+    "arti": "penyelesaian masalah",
+    "contoh": "この問題の解決方法を教えてください。\nKono mondai no kaiketsu hōhō o oshiete kudasai.\nTolong ajari saya cara menyelesaikan masalah ini.\n\n紛争の解決には時間がかかる。\nFunsō no kaiketsu ni wa jikan ga kakaru.\nPenyelesaian perselisihan memerlukan waktu."
+  },
+  {
+    "kotoba": "応援",
+    "kana": "おうえん",
+    "arti": "dukungan",
+    "contoh": "試合で応援してくれてありがとう。\nShiai de ōen shite kurete arigatō.\nTerima kasih sudah mendukung di pertandingan.\n\nみんなで彼を応援しよう！\nMinna de kare o ōen shiyō!\nMari kita dukung dia bersama-sama!"
+  },
+  {
+    "kotoba": "準備",
+    "kana": "じゅんび",
+    "arti": "persiapan",
+    "contoh": "旅行の準備はほぼ終わった。\nRyokō no junbi wa hobo owatta.\nPersiapan untuk perjalanan hampir selesai.\n\nプレゼンの準備をしなければならない。\nPurezen no junbi o shinakereba naranai.\nSaya harus mempersiapkan presentasi."
+  },
+  {
+    "kotoba": "修正",
+    "kana": "しゅうせい",
+    "arti": "perbaikan, koreksi",
+    "contoh": "文書の修正をお願いします。\nBunsho no shūsei o onegaishimasu.\nTolong perbaiki dokumen tersebut.\n\nデザインに修正を加えました。\nDezain ni shūsei o kuwaemashita.\nSaya telah membuat perbaikan pada desain."
+  },
+  {
+    "kotoba": "徐々に",
+    "kana": "じょじょに",
+    "arti": "perlahan-lahan",
+    "contoh": "天気は徐々に回復している。\nTenki wa jojo ni kaifuku shite iru.\nCuaca perlahan-lahan membaik.\n\n徐々に慣れてきた。\nJojo ni narete kita.\nSaya perlahan-lahan terbiasa."
+  }
+  {
+    "kotoba": "ずいぶん",
+    "kana": "ずいぶん",
+    "arti": "sangat, cukup",
+    "contoh": "今日はずいぶん寒いですね。\nKyō wa zuibun samui desu ne.\nHari ini cukup dingin ya.\n\nずいぶん前に彼に会いました。\nZuibun mae ni kare ni aimashita.\nSaya bertemu dengannya cukup lama yang lalu."
+  },
+  {
+    "kotoba": "次第に",
+    "kana": "しだいに",
+    "arti": "secara bertahap",
+    "contoh": "病気は次第に良くなってきた。\nByōki wa shidaini yoku natte kita.\nPenyakitnya secara bertahap membaik.\n\n次第に状況が変わっていく。\nShidaini jōkyō ga kawatte iku.\nKeadaan berubah secara bertahap."
+  },
+  {
+    "kotoba": "印象的",
+    "kana": "いんしょうてき",
+    "arti": "berkesan",
+    "contoh": "彼の演説はとても印象的だった。\nKare no enzetsu wa totemo inshō-teki datta.\nPidatonya sangat berkesan.\n\n印象的な景色を見た。\nInshō-teki na keshiki o mita.\nSaya melihat pemandangan yang berkesan."
+  },
+  {
+    "kotoba": "動作",
+    "kana": "どうさ",
+    "arti": "gerakan, tindakan",
+    "contoh": "このロボットの動作は正確だ。\nKono robotto no dōsa wa seikaku da.\nGerakan robot ini akurat.\n\n彼の動作を観察した。\nKare no dōsa o kansatsu shita.\nSaya mengamati tindakannya."
+  },
+  {
+    "kotoba": "表現",
+    "kana": "ひょうげん",
+    "arti": "ekspresi",
+    "contoh": "この表現は失礼かもしれない。\nKono hyōgen wa shitsurei kamoshirenai.\nEkspresi ini mungkin tidak sopan.\n\n感情をうまく表現できない。\nKanjō o umaku hyōgen dekinai.\nSaya tidak bisa mengekspresikan perasaan dengan baik."
+  }
+  {
+    "kotoba": "優雅",
+    "kana": "ゆうが",
+    "arti": "anggun",
+    "contoh": "彼女の動きはとても優雅だった。\nKanojo no ugoki wa totemo yūga datta.\nGerakan dia sangat anggun.\n\n優雅な生活を送りたい。\nYūga na seikatsu o okuritai.\nSaya ingin menjalani kehidupan yang anggun."
+  },
+  {
+    "kotoba": "発言",
+    "kana": "はつげん",
+    "arti": "ucapan, pernyataan",
+    "contoh": "その発言は多くの人を驚かせた。\nSono hatsugen wa ōku no hito o odorokaseta.\nPernyataan itu mengejutkan banyak orang.\n\n会議で重要な発言をした。\nKaigi de jūyō na hatsugen o shita.\nSaya memberikan pernyataan penting di rapat."
+  },
+  {
+    "kotoba": "格好",
+    "kana": "かっこう",
+    "arti": "penampilan",
+    "contoh": "彼はいつもかっこうに気を使っている。\nKare wa itsumo kakkō ni ki o tsukatte iru.\nDia selalu memperhatikan penampilannya.\n\nその格好はパーティーには合わない。\nSono kakkō wa pātī ni wa awanai.\nPenampilan itu tidak cocok untuk pesta."
+  },
+  {
+    "kotoba": "充実",
+    "kana": "じゅうじつ",
+    "arti": "kelengkapan, kepenuhan",
+    "contoh": "彼の人生は充実している。\nKare no jinsei wa jūjitsu shite iru.\nHidupnya terasa penuh dan bermakna.\n\n図書館の設備が充実している。\nToshokan no setsubi ga jūjitsu shite iru.\nFasilitas perpustakaan lengkap."
+  },
+  {
+    "kotoba": "鮮明",
+    "kana": "せんめい",
+    "arti": "vivid, jelas",
+    "contoh": "夢の内容が鮮明に覚えている。\nYume no naiyō ga senmei ni oboete iru.\nSaya ingat isi mimpi itu dengan jelas.\n\nその映像はとても鮮明だった。\nSono eizō wa totemo senmei datta.\nGambar tersebut sangat jelas."
+  }
+  {
+    "kotoba": "退職",
+    "kana": "たいしょく",
+    "arti": "pensiun",
+    "contoh": "父は来月退職する予定だ。\nChichi wa raigetsu taishoku suru yotei da.\nAyah saya berencana pensiun bulan depan.\n\n長年働いた会社を退職した。\nNaganen hataraita kaisha o taishoku shita.\nSaya pensiun dari perusahaan tempat saya bekerja selama bertahun-tahun."
+  },
+  {
+    "kotoba": "明確",
+    "kana": "めいかく",
+    "arti": "jelas, pasti",
+    "contoh": "明確な目標を立てることが大切だ。\nMeikaku na mokuhyō o tateru koto ga taisetsu da.\nPenting untuk menetapkan tujuan yang jelas.\n\n彼の説明は明確で分かりやすかった。\nKare no setsumei wa meikaku de wakariyasukatta.\nPenjelasannya jelas dan mudah dipahami."
+  },
+  {
+    "kotoba": "制限年齢",
+    "kana": "せいげんねんれい",
+    "arti": "batas usia",
+    "contoh": "この試験には制限年齢がある。\nKono shiken ni wa seigen nenrei ga aru.\nAda batas usia untuk ujian ini.\n\n制限年齢を超えると参加できない。\nSeigen nenrei o koeru to sanka dekinai.\nJika melebihi batas usia, tidak bisa ikut serta."
+  },
+  {
+    "kotoba": "再雇用",
+    "kana": "さいこよう",
+    "arti": "re-employment",
+    "contoh": "退職後、再雇用された。\nTaishoku go, saikoyō sareta.\nSaya dipekerjakan kembali setelah pensiun.\n\n企業は高齢者の再雇用を進めている。\nKigyō wa kōreisha no saikoyō o susumete iru.\nPerusahaan mendorong re-employment bagi lansia."
+  },
+  {
+    "kotoba": "対象年齢",
+    "kana": "たいしょうねんれい",
+    "arti": "usia target",
+    "contoh": "この映画の対象年齢は12歳以上だ。\nKono eiga no taishō nenrei wa jūni-sai ijō da.\nUsia target untuk film ini adalah 12 tahun ke atas.\n\nおもちゃの対象年齢を確認してください。\nOmocha no taishō nenrei o kakunin shite kudasai.\nSilakan periksa usia target mainan ini."
+  }
+  {
+    "kotoba": "寿命",
+    "kana": "じゅみょう",
+    "arti": "umur hidup",
+    "contoh": "この機械の寿命は10年です。\nKono kikai no jumyō wa jūnen desu.\nUmur mesin ini adalah 10 tahun.\n\n健康的な生活で寿命が延びる。\nKenkō-teki na seikatsu de jumyō ga nobiru.\nGaya hidup sehat memperpanjang umur."
+  },
+  {
+    "kotoba": "覆う",
+    "kana": "おおう",
+    "arti": "menutupi",
+    "contoh": "雪が町全体を覆った。\nYuki ga machi zentai o ootta.\nSalju menutupi seluruh kota.\n\n彼は顔を手で覆った。\nKare wa kao o te de ootta.\nDia menutupi wajahnya dengan tangan."
+  },
+  {
+    "kotoba": "明らか",
+    "kana": "あきらか",
+    "arti": "jelas",
+    "contoh": "その事実は明らかだ。\nSono jijitsu wa akiraka da.\nFakta itu sudah jelas.\n\n調査で原因が明らかになった。\nChōsa de gen'in ga akiraka ni natta.\nPenyebabnya menjadi jelas setelah penyelidikan."
+  },
+  {
+    "kotoba": "性能",
+    "kana": "せいのう",
+    "arti": "performa",
+    "contoh": "この車は性能がとても良い。\nKono kuruma wa seinō ga totemo yoi.\nMobil ini memiliki performa yang sangat baik.\n\n新しいコンピューターは性能が高い。\nAtarashii konpyūtā wa seinō ga takai.\nKomputer baru itu punya performa tinggi."
+  },
+  {
+    "kotoba": "出来事",
+    "kana": "できごと",
+    "arti": "kejadian",
+    "contoh": "昨日の出来事について話しましょう。\nKinō no dekigoto ni tsuite hanashimashō.\nMari kita bicarakan kejadian kemarin.\n\nその出来事は一生忘れない。\nSono dekigoto wa isshō wasurenai.\nKejadian itu tidak akan saya lupakan seumur hidup."
+  }
