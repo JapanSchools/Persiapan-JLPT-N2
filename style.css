@@ -1,11 +1,12 @@
 :root {
---primary: #3E8E7E;     /* Hijau toska lembut, kalem dan profesional */
---secondary: #5D6D7E;   /* Abu kebiruan, netral dan versatile */
---accent: #D4A373;      /* Coklat karamel pastel, hangat dan ramah */
---light: #F9F9F9;       /* Putih bersih dengan sedikit tone hangat */
---dark: #2F3E46;        /* Abu gelap kehijauan, elegan dan tidak menyilaukan */
---error: #C94C4C;       /* Merah wine soft, tegas tapi nggak norak */
---success: #6A994E;     /* Hijau daun kalem, memberi kesan alami dan positif */
+--primary: #4A90E2;     /* Biru modern yang profesional dan bersahabat */
+--secondary: #7B8FA1;   /* Abu-biru netral, stabil, sangat cocok untuk teks & navigasi */
+--accent: #F5A623;      /* Oranye lembut, enerjik tapi tidak menyilaukan */
+--light: #FDFDFD;       /* Putih bersih hampir polos, sangat elegan */
+--dark: #1C1C1C;        /* Abu sangat gelap, cocok untuk teks dan latar kontras tinggi */
+--error: #D64541;       /* Merah brick soft, tetap tegas tanpa agresif */
+--success: #27AE60;     /* Hijau stabil, fresh tapi profesional */
+
 
 }
 
