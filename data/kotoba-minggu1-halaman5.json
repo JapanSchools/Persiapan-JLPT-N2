@@ -1,0 +1,8900 @@
+[
+  {
+    "kotoba": "アイスキャンディー",
+    "kana": "aisukyandii",
+    "arti": "es lilin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "相手",
+    "kana": "aite",
+    "arti": "lawan bicara, rekan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "合図",
+    "kana": "aizu",
+    "arti": "tanda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "赤字",
+    "kana": "akaji",
+    "arti": "kerugian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "明け方",
+    "kana": "akegata",
+    "arti": "subuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "秋祭り",
+    "kana": "akimatsuri",
+    "arti": "festival musim gugur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "秋雨",
+    "kana": "akisame",
+    "arti": "hujan musim gugur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "天の川",
+    "kana": "ama no gawa",
+    "arti": "galaksi, bimasakti",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "案",
+    "kana": "an",
+    "arti": "usulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "アンコール",
+    "kana": "ankooru",
+    "arti": "encore (permintaan pertunjukan diulang)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "案内",
+    "kana": "annai",
+    "arti": "panduan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "嵐",
+    "kana": "arashi",
+    "arti": "badai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "アリバイ",
+    "kana": "aribai",
+    "arti": "alibi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "足跡",
+    "kana": "ashiato",
+    "arti": "jejak kaki",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "圧縮",
+    "kana": "asshuku",
+    "arti": "kompresi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "アステリスク",
+    "kana": "asuterisuku",
+    "arti": "tanda asterik (*)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "跡",
+    "kana": "ato",
+    "arti": "bekas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "圧力",
+    "kana": "atsuryoku",
+    "arti": "tekanan, dorongan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "泡",
+    "kana": "awa",
+    "arti": "busa, buih, gelembung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "痣",
+    "kana": "aza",
+    "arti": "bekas luka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "バーゲン",
+    "kana": "baagen",
+    "arti": "potongan harga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "倍増",
+    "kana": "baizou",
+    "arti": "penggandaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "梅雨前線",
+    "kana": "bai’u zensen",
+    "arti": "gelombang udara hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "梅雨、梅雨",
+    "kana": "bai’u, tsuyu",
+    "arti": "musim hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "爆発",
+    "kana": "bakuhatsu",
+    "arti": "ledakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "爆発事故",
+    "kana": "bakuhatsu jiko",
+    "arti": "kecelakaan ledakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "番地",
+    "kana": "banchi",
+    "arti": "nomor rumah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "弁償",
+    "kana": "benshou",
+    "arti": "penggantian kerugian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ベテラン",
+    "kana": "beteran",
+    "arti": "berpengalaman, veteran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "美人",
+    "kana": "bijin",
+    "arti": "wanita cantik, orang cantik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "便箋",
+    "kana": "binsen",
+    "arti": "kertas surat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "びしょびしょ",
+    "kana": "bisho-bisho",
+    "arti": "basah kuyup",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "墓穴",
+    "kana": "boketsu",
+    "arti": "liang lahat, liang kubur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "募金",
+    "kana": "bokin",
+    "arti": "dana bantuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "牧畜",
+    "kana": "bokuchiku",
+    "arti": "peternakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ボーナス",
+    "kana": "boonasu",
+    "arti": "bonus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "募集",
+    "kana": "boshuu",
+    "arti": "perekrutan, penerimaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "棒",
+    "kana": "bou",
+    "arti": "tongkat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "暴風雨",
+    "kana": "boufuu’u",
+    "arti": "hujan badai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "防犯",
+    "kana": "bouhan",
+    "arti": "pencegahan kriminalitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "忘年会",
+    "kana": "bounenkai",
+    "arti": "pesta akhir tahun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "部分",
+    "kana": "bubun",
+    "arti": "bagian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "部長",
+    "kana": "buchou",
+    "arti": "general manager",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無事",
+    "kana": "buji",
+    "arti": "selamat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "武器",
+    "kana": "buki",
+    "arti": "senjata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物価",
+    "kana": "bukka",
+    "arti": "harga barang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分度器",
+    "kana": "bundoki",
+    "arti": "busur derajat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "文学",
+    "kana": "bungaku",
+    "arti": "kesusastraan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "文化",
+    "kana": "bunka",
+    "arti": "budaya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "文明",
+    "kana": "bunmei",
+    "arti": "peradaban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "文脈",
+    "kana": "bunmyaku",
+    "arti": "konteks",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分布",
+    "kana": "bunpu",
+    "arti": "distribusi, pembagian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分析",
+    "kana": "bunseki",
+    "arti": "analisis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分数",
+    "kana": "bunsuu",
+    "arti": "fraksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分担",
+    "kana": "buntan",
+    "arti": "pembagian tugas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分野",
+    "kana": "bun’ya",
+    "arti": "bidang, area",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ぶらぶら",
+    "kana": "bura-bura",
+    "arti": "jalan-jalan, berayun-ayun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物資",
+    "kana": "busshi",
+    "arti": "komoditas, barang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物質",
+    "kana": "busshitsu",
+    "arti": "material",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物理学",
+    "kana": "butsurigaku",
+    "arti": "fisika",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "病状",
+    "kana": "byoujou",
+    "arti": "keadaan penyakit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地方",
+    "kana": "chihou",
+    "arti": "wilayah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地位",
+    "kana": "chii",
+    "arti": "posisi, kedudukan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地下",
+    "kana": "chika",
+    "arti": "ruang bawah tanah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "近道",
+    "kana": "chikamichi",
+    "arti": "jalan pintas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "遅刻",
+    "kana": "chikoku",
+    "arti": "keterlambatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "畜産業",
+    "kana": "chikusangyou",
+    "arti": "peternakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地球温暖化",
+    "kana": "chikyuu ondanka",
+    "arti": "pemanasan global",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沈殿",
+    "kana": "chinden",
+    "arti": "pengendapan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "賃金",
+    "kana": "chingin",
+    "arti": "upah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鎮痛剤",
+    "kana": "chintsuuzai",
+    "arti": "obat penawar rasa sakit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地理",
+    "kana": "chiri",
+    "arti": "geografi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地質",
+    "kana": "chishitsu",
+    "arti": "geologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "馳走",
+    "kana": "chisou",
+    "arti": "pesta",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "直角",
+    "kana": "chokkaku",
+    "arti": "garis tegak lurus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "直線",
+    "kana": "chokusen",
+    "arti": "garis lurus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "直進",
+    "kana": "chokushin",
+    "arti": "jalan lurus/terus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "超過",
+    "kana": "chouka",
+    "arti": "ekstra, kelebihan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "長男",
+    "kana": "chounan",
+    "arti": "anak laki-laki tertua",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "調整",
+    "kana": "chousei",
+    "arti": "penyesuaian, penyetelan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "調節",
+    "kana": "chousetsu",
+    "arti": "pengawasan, pengaturan, regulasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "長所",
+    "kana": "chousho",
+    "arti": "keunggulan, kekuatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "頂点",
+    "kana": "chouten",
+    "arti": "poin puncak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "中断",
+    "kana": "chuudan",
+    "arti": "penangguhan, skors",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "中旬",
+    "kana": "chuujun",
+    "arti": "pertengahan bulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "注目",
+    "kana": "chuumoku",
+    "arti": "perhatian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "中央分離帯",
+    "kana": "chuuou bunritai",
+    "arti": "median pemisah jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "抽選",
+    "kana": "chuusen",
+    "arti": "undian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "中止",
+    "kana": "chuushi",
+    "arti": "penghentian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "抽象",
+    "kana": "chuushou",
+    "arti": "abstrak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大腸",
+    "kana": "daichou",
+    "arti": "usus besar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "台所",
+    "kana": "daidokoro",
+    "arti": "dapur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "代表取締役",
+    "kana": "daihyoutorishimariyaku",
+    "arti": "CEO",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大臣",
+    "kana": "daijin",
+    "arti": "perdana menteri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "代理",
+    "kana": "dairi",
+    "arti": "wakil, wali",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "題名",
+    "kana": "daitei",
+    "arti": "gelar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ダイヤ/ダイヤグラム",
+    "kana": "daiya / daiyaguramu",
+    "arti": "diagram, bagan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "団地",
+    "kana": "danchi",
+    "arti": "apartemen multi-unit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "段階",
+    "kana": "dankai",
+    "arti": "level",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "男性",
+    "kana": "dansei",
+    "arti": "laki-laki",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "断定",
+    "kana": "dantei",
+    "arti": "kesimpulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "暖冬",
+    "kana": "dantou",
+    "arti": "musim dingin yang hangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "出会い",
+    "kana": "deai",
+    "arti": "pertemuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "凸凹",
+    "kana": "dekoboko",
+    "arti": "bergelombang, tidak rata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "デモンストレーション",
+    "kana": "demonsutoreeshon",
+    "arti": "demonstrasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "電球",
+    "kana": "denkyuu",
+    "arti": "bola lampu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "電波",
+    "kana": "denpa",
+    "arti": "gelombang listrik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "電報",
+    "kana": "denpou",
+    "arti": "telegram",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "伝染",
+    "kana": "densen",
+    "arti": "penularan, penjangkitan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "電子工学",
+    "kana": "denshi kougaku",
+    "arti": "teknik elektron",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "電卓/計算機",
+    "kana": "dentaku/keisanki",
+    "arti": "kalkulator",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "どきどき",
+    "kana": "doki-doki",
+    "arti": "deg-degan, suara detak jantung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毒",
+    "kana": "doku",
+    "arti": "racun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "独立",
+    "kana": "dokuritsu",
+    "arti": "kemerdekaan, kemandirian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "独身",
+    "kana": "dokushin",
+    "arti": "single",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "読書",
+    "kana": "dokusho",
+    "arti": "baca buku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "丼",
+    "kana": "donburi",
+    "arti": "mangkuk besar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "泥",
+    "kana": "doro",
+    "arti": "lumpur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "同意",
+    "kana": "doui",
+    "arti": "persetujuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "同情",
+    "kana": "doujou",
+    "arti": "perasaan iba",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "同感",
+    "kana": "doukan",
+    "arti": "perasaan yang sama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "動機",
+    "kana": "douki",
+    "arti": "motivasi, pendorong",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "道路",
+    "kana": "douro",
+    "arti": "jalan raya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "道路標識",
+    "kana": "douro hyoushiki",
+    "arti": "penunjuk jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "動作",
+    "kana": "dousa",
+    "arti": "tindakan, gerakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "同格",
+    "kana": "dousaku",
+    "arti": "rangking yang sama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "動詞",
+    "kana": "doushi",
+    "arti": "kata kerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "枝",
+    "kana": "eda",
+    "arti": "cabang, dahan, ranting",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "営業",
+    "kana": "eigyou",
+    "arti": "bisnis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "営業所",
+    "kana": "eigyousho",
+    "arti": "tempat usaha, kantor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "映像",
+    "kana": "eizou",
+    "arti": "gambar pada layar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "液体",
+    "kana": "ekitai",
+    "arti": "cairain",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "エコロジー",
+    "kana": "ekorogii",
+    "arti": "ekologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "延長",
+    "kana": "enchou",
+    "arti": "perpanjangan waktu, sambungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "援助",
+    "kana": "enjo",
+    "arti": "bantuan, pertolongan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "宴会",
+    "kana": "enkai",
+    "arti": "penjamuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "延期",
+    "kana": "enki",
+    "arti": "penundaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "絵具/絵の具",
+    "kana": "enogu",
+    "arti": "cat (lukisan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鉛筆削り",
+    "kana": "enpitsu kezuri",
+    "arti": "rautan pensil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "炎症",
+    "kana": "enshou",
+    "arti": "peradangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "煙突",
+    "kana": "entotsu",
+    "arti": "cerobong asap",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "吹雪",
+    "kana": "fubuki",
+    "arti": "badai salju",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "普段",
+    "kana": "fudan",
+    "arti": "biasanya, umumnya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "筆",
+    "kana": "fude",
+    "arti": "kuas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "不潔",
+    "kana": "fuketsu",
+    "arti": "tidak bersih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "袋",
+    "kana": "fukuro",
+    "arti": "kantung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "複写",
+    "kana": "fukusha",
+    "arti": "salinan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "福祉",
+    "kana": "fukushi",
+    "arti": "jaminan sosial, kesejahteraan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "副詞",
+    "kana": "fukushi",
+    "arti": "adverbia, kata keterangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "複数",
+    "kana": "fukushuu",
+    "arti": "beberapa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "服装",
+    "kana": "fukusou",
+    "arti": "pakaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "普及",
+    "kana": "fukyuu",
+    "arti": "penyebarluasan, kepopuleran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "船便",
+    "kana": "funabin",
+    "arti": "pos laut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "噴火",
+    "kana": "funka",
+    "arti": "letusan, ledakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雰囲気",
+    "kana": "fun’iki",
+    "arti": "atmosfir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "フリーランス",
+    "kana": "furiiransu",
+    "arti": "pekerja lepas, freelance",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "付箋紙",
+    "kana": "fusenshi",
+    "arti": "sticky note, memo tempel",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蓋",
+    "kana": "futa",
+    "arti": "penutup, cover",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "双子",
+    "kana": "futago",
+    "arti": "anak kembar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "負担",
+    "kana": "futan",
+    "arti": "beben, tanggung jawab",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "普通",
+    "kana": "futsuu",
+    "arti": "umum, biasa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "不通",
+    "kana": "futsuu",
+    "arti": "penghentian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夫婦",
+    "kana": "fuufu",
+    "arti": "suami-istri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "風景",
+    "kana": "fuukei",
+    "arti": "panorama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "不運",
+    "kana": "fuun",
+    "arti": "tidak beruntung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "風船",
+    "kana": "fuusen",
+    "arti": "balon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "付属",
+    "kana": "fuzoku",
+    "arti": "terlampir, termasuk, afiliasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "画用紙",
+    "kana": "gayoushi",
+    "arti": "kertas gambar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ガードレール",
+    "kana": "gaado reeru",
+    "arti": "pagar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "画鋲",
+    "kana": "gabyou",
+    "arti": "paku pencet, paku payung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "我意",
+    "kana": "gai",
+    "arti": "kemauan diri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ガイド",
+    "kana": "gaido",
+    "arti": "pemandu, guide",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "外壁",
+    "kana": "gaiheki",
+    "arti": "tembok luar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "外食",
+    "kana": "gaishoku",
+    "arti": "makan di luar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "崖崩れ",
+    "kana": "gakekuzure",
+    "arti": "tanah longsong",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "学期",
+    "kana": "gakki",
+    "arti": "semester sekolah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "学問",
+    "kana": "gakumon",
+    "arti": "akademik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "学年",
+    "kana": "gakunen",
+    "arti": "tahun sekolah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ガムテープ",
+    "kana": "gamuteepu",
+    "arti": "lakban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "元日",
+    "kana": "ganjitsu",
+    "arti": "tanggal 1 Januari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "岩石",
+    "kana": "ganseki",
+    "arti": "batu karang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "元旦",
+    "kana": "gantan",
+    "arti": "hari pertama tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "芸術",
+    "kana": "geijutsu",
+    "arti": "seni",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現場",
+    "kana": "genba",
+    "arti": "lokasi kejadian, lapangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "限度",
+    "kana": "gendo",
+    "arti": "batasan, limit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "解熱剤",
+    "kana": "genetsuzai",
+    "arti": "obat penurun panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "言語学",
+    "kana": "gengogaku",
+    "arti": "linguistik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現実",
+    "kana": "genjitsu",
+    "arti": "kenyataan, realita",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現状",
+    "kana": "genjou",
+    "arti": "kondisi sekarang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "限界",
+    "kana": "genkai",
+    "arti": "batasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "玄関",
+    "kana": "genkan",
+    "arti": "pintu masuk, pintu depan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現金",
+    "kana": "genkin",
+    "arti": "uang tunai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "原稿",
+    "kana": "genkou",
+    "arti": "manuskrip",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "原稿用紙",
+    "kana": "genkou youshi",
+    "arti": "kertas naskah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減量",
+    "kana": "genryou",
+    "arti": "pengurangan berat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減産",
+    "kana": "gensan",
+    "arti": "pengurangan produksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "原産",
+    "kana": "gensan",
+    "arti": "tempat asal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現象",
+    "kana": "genshou",
+    "arti": "fenomena",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減収",
+    "kana": "genshuu",
+    "arti": "pengurangan pendapatan/pemasukan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減速",
+    "kana": "gensoku",
+    "arti": "pengurangan kecepatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減退",
+    "kana": "gentai",
+    "arti": "penurunan, kemunduran, kemerosotan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減点",
+    "kana": "genten",
+    "arti": "pengurangan nilai/poin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "原付",
+    "kana": "gentsuki",
+    "arti": "skuter",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "現在",
+    "kana": "genzai",
+    "arti": "saat ini, sekarang ini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減塩",
+    "kana": "gen’en",
+    "arti": "diet garam, pengurangan garam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "減額",
+    "kana": "gen’gaku",
+    "arti": "pengurangan jumlah uang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "下宿",
+    "kana": "geshuku",
+    "arti": "rumah kost",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "下水",
+    "kana": "gesui",
+    "arti": "drainase, penyaluran got",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "議長",
+    "kana": "gichou",
+    "arti": "pemimpin rapat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "議事堂",
+    "kana": "gijidou",
+    "arti": "gedung parlemen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "疑問",
+    "kana": "gimon",
+    "arti": "pertanyaan, keraguan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "疑問符",
+    "kana": "gimonfu",
+    "arti": "tanda tanya (?)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "義務",
+    "kana": "gimu",
+    "arti": "kewajiban, tugas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "御飯",
+    "kana": "gohan",
+    "arti": "nasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "塵",
+    "kana": "gomi",
+    "arti": "sampah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ゴミ分別",
+    "kana": "gomi bunbetsu",
+    "arti": "pemilahan/penggolongan sampah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "娯楽",
+    "kana": "goraku",
+    "arti": "hiburan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "合同",
+    "kana": "goudou",
+    "arti": "kombinasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "合格",
+    "kana": "goukaku",
+    "arti": "lulus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "合計",
+    "kana": "goukei",
+    "arti": "keseluruhan, jumlah total",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "強盗",
+    "kana": "goutou",
+    "arti": "perampokan, perampasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "方眼紙",
+    "kana": "gurafu youshi",
+    "arti": "kertas desain grafis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逆行",
+    "kana": "gyakkou",
+    "arti": "gerakan mundur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逆",
+    "kana": "gyaku",
+    "arti": "kebalikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漁業",
+    "kana": "gyogyo",
+    "arti": "industri perikanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行儀",
+    "kana": "gyougi",
+    "arti": "tata krama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行事",
+    "kana": "gyouji",
+    "arti": "peristiwa, kejadian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "裸",
+    "kana": "hadaka",
+    "arti": "telanjang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "葉書",
+    "kana": "hagaki",
+    "arti": "kartu post",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "破片",
+    "kana": "hahen",
+    "arti": "pecahan, serpihan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "肺",
+    "kana": "hai",
+    "arti": "paru-paru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "配布",
+    "kana": "haifu",
+    "arti": "pembagian, distribusi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "背景",
+    "kana": "haikei",
+    "arti": "latar belakang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "排気ガス",
+    "kana": "haiki gasu",
+    "arti": "gas pembuangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "測り",
+    "kana": "hakari",
+    "arti": "timbangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "発揮",
+    "kana": "hakki",
+    "arti": "yang dipertunjukkan / diperlihatkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "発行",
+    "kana": "hakkou",
+    "arti": "mengeluarkan, menerbitkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "拍手",
+    "kana": "hakushu",
+    "arti": "bertepuk tangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "花火大会",
+    "kana": "hanabi taikai",
+    "arti": "pesta kembang api",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "花びら",
+    "kana": "hanabira",
+    "arti": "kelopak bunga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鼻水",
+    "kana": "hanamizu",
+    "arti": "ingus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "判断",
+    "kana": "handan",
+    "arti": "pertimbangan, keputusan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "半減",
+    "kana": "hangen",
+    "arti": "pengurangan setengah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "判事",
+    "kana": "hanji",
+    "arti": "juri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "半径",
+    "kana": "hankei",
+    "arti": "radius",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "反抗",
+    "kana": "hankou",
+    "arti": "perlawanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "氾濫",
+    "kana": "hanran",
+    "arti": "air meluap, banjir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "反政府",
+    "kana": "hanseifu",
+    "arti": "anti pemerintah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "反戦",
+    "kana": "hansen",
+    "arti": "anti perang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "半島",
+    "kana": "hantou",
+    "arti": "semenanjung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "犯罪",
+    "kana": "hanzai",
+    "arti": "kejahatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "針",
+    "kana": "hari",
+    "arti": "jarum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "春一番",
+    "kana": "haruichiban",
+    "arti": "angin kencang pertama di musim semi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鋏",
+    "kana": "hasami",
+    "arti": "gunting",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "端",
+    "kana": "hashi",
+    "arti": "ujung, sudut, tepi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "梯子",
+    "kana": "hashigo",
+    "arti": "tangga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "発電",
+    "kana": "hatsuden",
+    "arti": "pembangkit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "初詣",
+    "kana": "hatsumoude",
+    "arti": "kunjungan ke kuil pada 1 Januari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "初雪",
+    "kana": "hatsuyuki",
+    "arti": "salju pertama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "発展",
+    "kana": "hatten",
+    "arti": "pengembangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "平日",
+    "kana": "heijitsu",
+    "arti": "hari kerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "閉会",
+    "kana": "heikai",
+    "arti": "penutupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "平行",
+    "kana": "heikou",
+    "arti": "paralel, sejajar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "閉鎖",
+    "kana": "heisa",
+    "arti": "pelarangan, penutupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日当たり",
+    "kana": "hiatari",
+    "arti": "pencahayaan sinar matahari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日照り/干ばつ",
+    "kana": "hideri/kanbatsu",
+    "arti": "kemarau panjang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日付",
+    "kana": "hidzuke",
+    "arti": "tanggal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蹄",
+    "kana": "hidzume",
+    "arti": "kuku (kuda)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日帰り",
+    "kana": "higaeri",
+    "arti": "perjalanan pulang pergi di hari yg sama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "被害者",
+    "kana": "higaisha",
+    "arti": "korban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "批評",
+    "kana": "hihyou",
+    "arti": "kritik, penilaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "非常口",
+    "kana": "hijouguchi",
+    "arti": "pintu darurat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日陰",
+    "kana": "hikage",
+    "arti": "nagungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "比較",
+    "kana": "hikaku",
+    "arti": "perbandingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "挽肉",
+    "kana": "hikiniku",
+    "arti": "daging cincang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "引っ越し",
+    "kana": "hikkoshi",
+    "arti": "pindah rumah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "彦防止",
+    "kana": "hikoboushi",
+    "arti": "bintang altair",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "卑怯",
+    "kana": "hikyou",
+    "arti": "pengecut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日向ぼっこ",
+    "kana": "hinatabokko",
+    "arti": "berjemur menghangatkan tubuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "皮肉",
+    "kana": "hiniku",
+    "arti": "sinis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "筆者",
+    "kana": "hissha",
+    "arti": "penulis, pengarang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "冷やし中華",
+    "kana": "hiyashi chuuka",
+    "arti": "mi dingin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "費用",
+    "kana": "hiyou",
+    "arti": "ongkos, biaya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ホッチキス",
+    "kana": "hocchikisu",
+    "arti": "stepler",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歩道",
+    "kana": "hodou",
+    "arti": "trotoar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歩道橋",
+    "kana": "hodoukyou",
+    "arti": "jembatan penyeberangan orang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "保険",
+    "kana": "hoken",
+    "arti": "asuransi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "翻訳",
+    "kana": "hon&#39;yaku",
+    "arti": "penerjemahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "本気",
+    "kana": "honki",
+    "arti": "keseriusan, kesungguhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "本物",
+    "kana": "honmono",
+    "arti": "asli, original, sungguhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "本社",
+    "kana": "honsha",
+    "arti": "kantor pusat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "本店",
+    "kana": "honten",
+    "arti": "toko pusat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "頬",
+    "kana": "hoo, hoho",
+    "arti": "pipi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "堀",
+    "kana": "hori",
+    "arti": "parit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "星印",
+    "kana": "hoshijirushi",
+    "arti": "tanda bintang (☆)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "保証",
+    "kana": "hoshou",
+    "arti": "jaminan, garansi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "包丁",
+    "kana": "houchou",
+    "arti": "pisau dapur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "法学",
+    "kana": "hougaku",
+    "arti": "ilmu hukum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "方言",
+    "kana": "hougen",
+    "arti": "dialek, logat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "箒",
+    "kana": "houki",
+    "arti": "sapu lidi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "方向",
+    "kana": "houkou",
+    "arti": "arah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "方面",
+    "kana": "houmen",
+    "arti": "arah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "訪問",
+    "kana": "houmon",
+    "arti": "mengunjungi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "方針",
+    "kana": "houshin",
+    "arti": "kebijaksanaan, haluan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "包帯",
+    "kana": "houtai",
+    "arti": "perban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ホワイトボード",
+    "kana": "howaito boodo",
+    "arti": "papan tulis putih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雹",
+    "kana": "hyou",
+    "arti": "hujan es batu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "表",
+    "kana": "hyou",
+    "arti": "daftar, jadwal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "標準",
+    "kana": "hyoujun",
+    "arti": "standar, patokan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "評論",
+    "kana": "hyouron",
+    "arti": "kritik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "表札",
+    "kana": "hyousatsu",
+    "arti": "papan nama (di depan rumah)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "胃",
+    "kana": "i",
+    "arti": "lambung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "イチョウ",
+    "kana": "ichou",
+    "arti": "buah ginko",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "胃腸薬",
+    "kana": "ichouyaku",
+    "arti": "obat lambung, obat pencernaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "遺伝",
+    "kana": "iden",
+    "arti": "keturunan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "医学",
+    "kana": "igaku",
+    "arti": "ilmu kedokteran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意義",
+    "kana": "igi",
+    "arti": "makna, nilai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "以後",
+    "kana": "igo",
+    "arti": "setelah ini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "違反",
+    "kana": "ihan",
+    "arti": "pelanggaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "言い訳",
+    "kana": "iiwake",
+    "arti": "alasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "維持",
+    "kana": "iji",
+    "arti": "pemeliharaan, pertahanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意見",
+    "kana": "iken",
+    "arti": "pendapat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生き生き",
+    "kana": "iki-iki",
+    "arti": "menjadi hidup, bersemangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行き止まり",
+    "kana": "ikidomari",
+    "arti": "jalan buntu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生きがい",
+    "kana": "ikigai",
+    "arti": "makna kehidupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生き物",
+    "kana": "ikimono",
+    "arti": "makhluk hidup",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "勢い",
+    "kana": "ikioi",
+    "arti": "daya, kekuatan, tenaga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "育児",
+    "kana": "ikuji",
+    "arti": "merawat anak, mengasuh anak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "田舎",
+    "kana": "inaka",
+    "arti": "kampung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "稲妻",
+    "kana": "inazuma",
+    "arti": "kilat, cahaya petir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "インフレ",
+    "kana": "infure",
+    "arti": "inflasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "引退",
+    "kana": "intai",
+    "arti": "pensiun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "一般",
+    "kana": "ippan",
+    "arti": "umum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "一方通行",
+    "kana": "ippou tsuukou",
+    "arti": "jalan satu arah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "イラスト",
+    "kana": "irasuto",
+    "arti": "ilustrasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "容器",
+    "kana": "iremono",
+    "arti": "wadah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入り口",
+    "kana": "iriguchi",
+    "arti": "pintu masuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "色鉛筆",
+    "kana": "iro enpitsu",
+    "arti": "pensil warna",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意思",
+    "kana": "ishi",
+    "arti": "tekad",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意識",
+    "kana": "ishiki",
+    "arti": "kesadaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意識不明",
+    "kana": "ishiki fumei",
+    "arti": "hilang kesadaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "一生",
+    "kana": "isshou",
+    "arti": "seumur hidup",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "一種",
+    "kana": "isshu",
+    "arti": "spesies",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "岩場",
+    "kana": "iwaba",
+    "arti": "tempat berbatu karang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "意欲",
+    "kana": "iyoku",
+    "arti": "gairah, nafsu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地盤",
+    "kana": "jiban",
+    "arti": "benteng",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自治",
+    "kana": "jichi",
+    "arti": "otonomi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自動",
+    "kana": "jidou",
+    "arti": "otomatis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自衛",
+    "kana": "jiei",
+    "arti": "perlindungan diri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地面",
+    "kana": "jimen",
+    "arti": "permukaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "人物",
+    "kana": "jinbutsu",
+    "arti": "tokoh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "人工",
+    "kana": "jinkou",
+    "arti": "buatan, tiruan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "人命",
+    "kana": "jinmei",
+    "arti": "kehidupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "腎臓",
+    "kana": "jinzou",
+    "arti": "ginjal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "磁石",
+    "kana": "jishaku",
+    "arti": "magnet",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地震",
+    "kana": "jishin",
+    "arti": "gempa bumi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "時速",
+    "kana": "jisoku",
+    "arti": "kecepatan per jam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実績",
+    "kana": "jisseki",
+    "arti": "pencapaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実施",
+    "kana": "jisshi",
+    "arti": "pelaksanaan, penyelenggaraan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実習",
+    "kana": "jisshuu",
+    "arti": "praktik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "事態",
+    "kana": "jitai",
+    "arti": "perkembangan situasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自宅",
+    "kana": "jitaku",
+    "arti": "rumah sendiri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "辞典",
+    "kana": "jiten",
+    "arti": "kamus (satu bahasa)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自転車道",
+    "kana": "jitenshadou",
+    "arti": "jalur sepeda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実物",
+    "kana": "jitsubutsu",
+    "arti": "barang asli",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実現",
+    "kana": "jitsugen",
+    "arti": "realisasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "地割れ",
+    "kana": "jiware",
+    "arti": "tanah retak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "持続",
+    "kana": "jizoku",
+    "arti": "keberlanjutan, kontinuitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "女王",
+    "kana": "joou",
+    "arti": "ratu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "女性",
+    "kana": "josei",
+    "arti": "wanita",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "助詞",
+    "kana": "joshi",
+    "arti": "kata bantu, partikel",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "定規",
+    "kana": "jougi",
+    "arti": "penggaris",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "上旬",
+    "kana": "joujun",
+    "arti": "10 hari awal pada bulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "条件",
+    "kana": "jouken",
+    "arti": "syarat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蒸気",
+    "kana": "jouki",
+    "arti": "uap",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "常務",
+    "kana": "joumu",
+    "arti": "direktur eksekutif",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "常識",
+    "kana": "joushiki",
+    "arti": "akal sehat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "上昇",
+    "kana": "joushou",
+    "arti": "kenaikan, lonjakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "錠剤",
+    "kana": "jouzai",
+    "arti": "obat tablet",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "受験",
+    "kana": "juken",
+    "arti": "ikut ujian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寿命",
+    "kana": "jumyou",
+    "arti": "batas usia",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "順序",
+    "kana": "junjo",
+    "arti": "urutan, tata-tertib",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "純情",
+    "kana": "junjou",
+    "arti": "hati yang bersih, hati nurani",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "巡査",
+    "kana": "junsa",
+    "arti": "polisi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "純粋",
+    "kana": "junsui",
+    "arti": "murni, asli",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "述語",
+    "kana": "jutsugo",
+    "arti": "predikat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "十五夜",
+    "kana": "juugoya",
+    "arti": "malam bulan purnama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重力",
+    "kana": "juuryoku",
+    "arti": "gravitasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重視",
+    "kana": "juushi",
+    "arti": "yang dianggap penting",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重傷",
+    "kana": "juushou",
+    "arti": "luka berat, luka parah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重体",
+    "kana": "juutai",
+    "arti": "sakit berat, kritis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "渋滞",
+    "kana": "juutai",
+    "arti": "kemacetan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重役",
+    "kana": "juuyaku",
+    "arti": "direktur perusahaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "重要",
+    "kana": "juuyou",
+    "arti": "kebutuhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "価値",
+    "kana": "kachi",
+    "arti": "nilai, harga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "課長",
+    "kana": "kachou",
+    "arti": "kepala seksi, kepala bagian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "花壇",
+    "kana": "kadan",
+    "arti": "tempat menanam bunga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "門松",
+    "kana": "kadomatsu",
+    "arti": "dekorasi cemara pada tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "加害者",
+    "kana": "kagaisha",
+    "arti": "pelaku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "化学",
+    "kana": "kagaku",
+    "arti": "kimia",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "科学",
+    "kana": "kagaku",
+    "arti": "sains",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鏡",
+    "kana": "kagami",
+    "arti": "cermin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "影",
+    "kana": "kage",
+    "arti": "bayangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鍵",
+    "kana": "kagi",
+    "arti": "kunci",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鍵括弧",
+    "kana": "kagikakko",
+    "arti": "tanda petik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "限り",
+    "kana": "kagiri",
+    "arti": "batas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改築",
+    "kana": "kaichiku",
+    "arti": "rekonstruksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "階段",
+    "kana": "kaidan",
+    "arti": "tangga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "回復",
+    "kana": "kaifuku",
+    "arti": "penyembuhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "海岸",
+    "kana": "kaigan",
+    "arti": "pantai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "介護",
+    "kana": "kaigo",
+    "arti": "pengasuhan, perawatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改行",
+    "kana": "kaigyou",
+    "arti": "paragraf baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "開業",
+    "kana": "kaigyou",
+    "arti": "pembukaan usaha/bisnis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "開放",
+    "kana": "kaihou",
+    "arti": "keadaan terbuka, bebas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "開会",
+    "kana": "kaikai",
+    "arti": "pembukaan rapat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改革",
+    "kana": "kaikaku",
+    "arti": "reformasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改名",
+    "kana": "kaimei",
+    "arti": "penggantian nama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "海面上昇",
+    "kana": "kaimen joushou",
+    "arti": "permukaan air laut naik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改良",
+    "kana": "kairyou",
+    "arti": "perbaikan, penyempurnaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改札口",
+    "kana": "kaisatsuguchi",
+    "arti": "pintu pemeriksaan karcis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "快晴",
+    "kana": "kaisei",
+    "arti": "cuaca cerah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "会社方針",
+    "kana": "kaisha houshin",
+    "arti": "kebijakan perusahaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "解釈",
+    "kana": "kaishaku",
+    "arti": "penjelasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "開始",
+    "kana": "kaishi",
+    "arti": "pembukaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改心",
+    "kana": "kaishin",
+    "arti": "perbaikan kelakuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改修",
+    "kana": "kaishuu",
+    "arti": "pembetulan, reparasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "海水浴",
+    "kana": "kaisuiyoku",
+    "arti": "mandi air laut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "開店",
+    "kana": "kaiten",
+    "arti": "pembukaan toko",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "回答",
+    "kana": "kaitou",
+    "arti": "jawaban pertanyaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改善",
+    "kana": "kaizen",
+    "arti": "perbaikan untuk kemajuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "改造",
+    "kana": "kaizou",
+    "arti": "perubahan bentuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "家事",
+    "kana": "kaji",
+    "arti": "urusan rumah tangga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "火事",
+    "kana": "kaji",
+    "arti": "kebakaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "係長",
+    "kana": "kakarichou",
+    "arti": "kepala sub bagian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "欠片",
+    "kana": "kakera",
+    "arti": "kepingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "柿",
+    "kana": "kaki",
+    "arti": "buah kesemek",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "かき氷",
+    "kana": "kakigoori",
+    "arti": "es serut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "垣根",
+    "kana": "kakine",
+    "arti": "pagar tanaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "書初め",
+    "kana": "kakizome",
+    "arti": "kaligrafi untuk tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "括弧",
+    "kana": "kakko",
+    "arti": "tanda kurung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "拡張",
+    "kana": "kakuchou",
+    "arti": "perluasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "核兵器",
+    "kana": "kakuheiki",
+    "arti": "senjata nuklir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "拡充",
+    "kana": "kakujuu",
+    "arti": "perluasa, pengembangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "架空",
+    "kana": "kakuu",
+    "arti": "udara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "神",
+    "kana": "kami",
+    "arti": "dewa, tuhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雷",
+    "kana": "kaminari",
+    "arti": "petir, guntur, guruh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "科目",
+    "kana": "kamoku",
+    "arti": "mata pelajaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "貨物",
+    "kana": "kamotsu",
+    "arti": "kargo",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "紙屑",
+    "kana": "kamukuzu",
+    "arti": "limbah kertas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "かんかん",
+    "kana": "kan-kan",
+    "arti": "berdentang-dentang, berapi-api (marah)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "家内",
+    "kana": "kanai",
+    "arti": "istri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感動",
+    "kana": "kandou",
+    "arti": "terharu, tersentuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "缶詰",
+    "kana": "kandzume",
+    "arti": "makanan kaleng",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感覚",
+    "kana": "kankaku",
+    "arti": "perasaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乾季",
+    "kana": "kanki",
+    "arti": "musim panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "環境",
+    "kana": "kankyou",
+    "arti": "lingkungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "環境保護",
+    "kana": "kankyou hodo",
+    "arti": "perlindungan/pelestarian lingkungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "甘味料",
+    "kana": "kanmiryou",
+    "arti": "bahan pemanis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寒波",
+    "kana": "kanpa",
+    "arti": "gelombang dingin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乾杯",
+    "kana": "kanpai",
+    "arti": "bersulang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漢方薬",
+    "kana": "kanpouyaku",
+    "arti": "obat herbat, ramuan herbal china",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "関連",
+    "kana": "kanren",
+    "arti": "kaitan, hubungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寒冷前線",
+    "kana": "kanren zensen",
+    "arti": "gelombang udara dingin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "完成",
+    "kana": "kansei",
+    "arti": "komplit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "関節",
+    "kana": "kansetsu",
+    "arti": "persendian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感謝",
+    "kana": "kansha",
+    "arti": "berterima kasih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "関心",
+    "kana": "kanshin",
+    "arti": "kepedulian, perhatian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感触",
+    "kana": "kanshoku",
+    "arti": "observasi, pengamatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鑑賞",
+    "kana": "kanshou",
+    "arti": "apresiasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乾燥",
+    "kana": "kansou",
+    "arti": "gersang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感嘆符",
+    "kana": "kantanfu",
+    "arti": "tanda seru (!)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "監督",
+    "kana": "kantoku",
+    "arti": "pengawas, sutradara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "関東",
+    "kana": "kantou",
+    "arti": "kantou (nama pembagian wilayah Jepang)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "肝臓",
+    "kana": "kanzou",
+    "arti": "hati, liver",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歓迎",
+    "kana": "kan’gei",
+    "arti": "penyambutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感激",
+    "kana": "kan’geki",
+    "arti": "kesan yang kuat, emosi yang dalam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "カプセル",
+    "kana": "kapuseru",
+    "arti": "obat kapsul",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "空っぽ",
+    "kana": "karappo",
+    "arti": "kosong, hampa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "カリキュラム",
+    "kana": "karikyuramu",
+    "arti": "kurikulum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "カロリー",
+    "kana": "karorii",
+    "arti": "kalori",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "過労死",
+    "kana": "karoushi",
+    "arti": "mati kelelahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "傘",
+    "kana": "kasa",
+    "arti": "payung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "火災",
+    "kana": "kasai",
+    "arti": "bencana kebakaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "火災報知器",
+    "kana": "kasai houchiki",
+    "arti": "alarm kebakaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "下線",
+    "kana": "kasen",
+    "arti": "garis bawah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "下線/アンダーライン",
+    "kana": "kasen/andaarain",
+    "arti": "garis bawah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "貸し出し",
+    "kana": "kashidashi",
+    "arti": "pinjaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "加速",
+    "kana": "kasoku",
+    "arti": "akselerasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "肩",
+    "kana": "kata",
+    "arti": "bahu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "仮定",
+    "kana": "katei",
+    "arti": "hipotesa, asumsi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "家庭",
+    "kana": "katei",
+    "arti": "rumah tangga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蚊取り線香",
+    "kana": "katori senkou",
+    "arti": "obat nyamuk bakar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "活力",
+    "kana": "katsuryoku",
+    "arti": "vitalitas, daya hidup",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "カッター",
+    "kana": "kattaa",
+    "arti": "pisau cutter",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "カウンセリング",
+    "kana": "kaunseringu",
+    "arti": "konseling, bimbingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "川岸",
+    "kana": "kawagishi",
+    "arti": "tepi sungai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "為替",
+    "kana": "kawase",
+    "arti": "penukaran uang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "怪我",
+    "kana": "kega",
+    "arti": "luka, cedera",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "けが人",
+    "kana": "keganin",
+    "arti": "orang yang terluka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気配",
+    "kana": "kehai",
+    "arti": "indikasi, kehadiran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "警備",
+    "kana": "keibi",
+    "arti": "penjagaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "軽度",
+    "kana": "keido",
+    "arti": "garis bujur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経営",
+    "kana": "keiei",
+    "arti": "manejemen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経営学",
+    "kana": "keieigaku",
+    "arti": "ilmu manajemen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経費",
+    "kana": "keihi",
+    "arti": "biaya operasional, pengeluaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "警報",
+    "kana": "keihou",
+    "arti": "alarm, peringatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "警官",
+    "kana": "keikan",
+    "arti": "polisi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "景気",
+    "kana": "keiki",
+    "arti": "aktivitas bisnis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "傾向",
+    "kana": "keikou",
+    "arti": "kecenderungan, tendensi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蛍光",
+    "kana": "keikou",
+    "arti": "floresensi, glowing",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蛍光ペン",
+    "kana": "keikoupen",
+    "arti": "pen stabilo",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "刑務所",
+    "kana": "keimusho",
+    "arti": "penjara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経理",
+    "kana": "keiri",
+    "arti": "akuntansi, perbukuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "形式",
+    "kana": "keishiki",
+    "arti": "formalitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "軽傷",
+    "kana": "keishou",
+    "arti": "luka ringan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "毛糸",
+    "kana": "keito",
+    "arti": "benang rajutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経済学",
+    "kana": "keizaigaku",
+    "arti": "ilmu ekonomi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "継続",
+    "kana": "keizoku",
+    "arti": "keberlanjutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "欠陥",
+    "kana": "kekkan",
+    "arti": "cacat, kekurangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見物",
+    "kana": "kenbutsu",
+    "arti": "melihat-lihat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "建築",
+    "kana": "kenchiku",
+    "arti": "konstruksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "建築学",
+    "kana": "kenchikugaku",
+    "arti": "ilmu arsitektur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見学",
+    "kana": "kengaku",
+    "arti": "inspeksi/wisata belajar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "兼業",
+    "kana": "kengyou",
+    "arti": "pekerjaan sampingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見解",
+    "kana": "kenkai",
+    "arti": "opini",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "肩甲骨",
+    "kana": "kenkoukotsu",
+    "arti": "tulang belikat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "憲法",
+    "kana": "kenpou",
+    "arti": "konstitusi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "権利",
+    "kana": "kenri",
+    "arti": "hak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "検査",
+    "kana": "kensa",
+    "arti": "penyelidikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "建設",
+    "kana": "kensetsu",
+    "arti": "konstruksi, pembangunan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "謙遜",
+    "kana": "kenson",
+    "arti": "kerendahan hati",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "検討",
+    "kana": "kentou",
+    "arti": "pertimbangan, peninjauan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "今朝",
+    "kana": "kesa",
+    "arti": "pagi ini, tadi pagi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "消しゴム",
+    "kana": "keshigomu",
+    "arti": "penghapus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "化粧",
+    "kana": "keshou",
+    "arti": "make up",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "傑作",
+    "kana": "kessaku",
+    "arti": "maha karya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "結論",
+    "kana": "ketsuron",
+    "arti": "kesimpulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気圧配置",
+    "kana": "kiatsu haichi",
+    "arti": "pengaturan posisi tekanan angin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "牙",
+    "kana": "kiba",
+    "arti": "taring",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気分",
+    "kana": "kibun",
+    "arti": "perasaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "帰依",
+    "kana": "kie",
+    "arti": "berserah diri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寄付",
+    "kana": "kifu",
+    "arti": "sumbangan, donasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "機嫌",
+    "kana": "kigen",
+    "arti": "suasana hati",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "基本",
+    "kana": "kihon",
+    "arti": "dasar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "企画",
+    "kana": "kikaku",
+    "arti": "perencanaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気管",
+    "kana": "kikan",
+    "arti": "saluran pernafasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "きっかけ",
+    "kana": "kikkake",
+    "arti": "alasan semula, motivasi asal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気候",
+    "kana": "kikou",
+    "arti": "iklim",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "掬",
+    "kana": "kiku",
+    "arti": "bunga krisan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "記念",
+    "kana": "kinen",
+    "arti": "peringatan, kenang-kenangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "金庫",
+    "kana": "kinko",
+    "arti": "peti besi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "筋肉",
+    "kana": "kinniku",
+    "arti": "otot",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "禁止",
+    "kana": "kinshi",
+    "arti": "dilarang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "金属",
+    "kana": "kinzoku",
+    "arti": "metal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "記憶",
+    "kana": "kioku",
+    "arti": "ingatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "霧",
+    "kana": "kiri",
+    "arti": "kabut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "切り傷",
+    "kana": "kirikizu",
+    "arti": "luka gores",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "霧雨",
+    "kana": "kirisame",
+    "arti": "gerimis halus yang seperti kabut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "規律",
+    "kana": "kiritsu",
+    "arti": "disiplin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "帰省",
+    "kana": "kisei",
+    "arti": "pulang kampung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "季節風",
+    "kana": "kisetsufuu",
+    "arti": "angin musiman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "岸辺",
+    "kana": "kishibe",
+    "arti": "tepi pantai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気象学",
+    "kana": "kishougaku",
+    "arti": "meteorologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "基礎",
+    "kana": "kiso",
+    "arti": "dasar, fondasi, landasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "規則",
+    "kana": "kisoku",
+    "arti": "peraturan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "期待",
+    "kana": "kitai",
+    "arti": "harapan, dambaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "小遣い",
+    "kana": "kodzukai",
+    "arti": "uang saku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "木枯らし",
+    "kana": "kogarashi",
+    "arti": "angin dingin di awal musim dingin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鯉のぼり",
+    "kana": "koinobori",
+    "arti": "bendera berbentuk ikan koi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "個人",
+    "kana": "kojin",
+    "arti": "individu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "黒板",
+    "kana": "kokuban",
+    "arti": "papan tulis hitam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "黒板消し",
+    "kana": "kokubankeshi",
+    "arti": "penghapus papan tulis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "克服",
+    "kana": "kokufuku",
+    "arti": "penaklukan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "国王",
+    "kana": "kokuou",
+    "arti": "raja (dari suatu negeri)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "故郷",
+    "kana": "kokyou",
+    "arti": "kampung halaman, tanah kelahiran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "米印",
+    "kana": "komejirushi",
+    "arti": "tanda beras (※)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "小麦",
+    "kana": "komugi",
+    "arti": "gandum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "紺",
+    "kana": "kon",
+    "arti": "biru navy",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "婚約",
+    "kana": "kon&#39;yaku",
+    "arti": "pertunangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "粉薬",
+    "kana": "konagusuri",
+    "arti": "obat bubuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "コンクリート",
+    "kana": "konkuriito",
+    "arti": "beton",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "困難",
+    "kana": "konnan",
+    "arti": "kesulitan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "コンパス",
+    "kana": "konpasu",
+    "arti": "jangka, kompas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "混乱",
+    "kana": "konran",
+    "arti": "kekacauan, kekalutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "コーチ",
+    "kana": "koochi",
+    "arti": "pelatih, pelatihan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "コラム",
+    "kana": "koramu",
+    "arti": "kolom",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "個性",
+    "kana": "kosei",
+    "arti": "kepribadian, karakter",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "腰掛",
+    "kana": "koshikake",
+    "arti": "tempat duduk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "胡椒",
+    "kana": "koshou",
+    "arti": "lada",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "こたつ",
+    "kana": "kotatsu",
+    "arti": "meja kecil dengan penghangat kaki",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "諺",
+    "kana": "kotowaza",
+    "arti": "peribahasa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "骨董品",
+    "kana": "kottouhin",
+    "arti": "barang antik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "好物",
+    "kana": "koubutsu",
+    "arti": "mineral",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行動",
+    "kana": "koudou",
+    "arti": "aksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "講演",
+    "kana": "kouen",
+    "arti": "kuliah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "公害",
+    "kana": "kougai",
+    "arti": "gangguan lingkungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "郊外",
+    "kana": "kougai",
+    "arti": "pinggiran kota",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "工学",
+    "kana": "kougaku",
+    "arti": "ilmu teknologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "攻撃",
+    "kana": "kougeki",
+    "arti": "serangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鉱業",
+    "kana": "kougyou",
+    "arti": "industri pertambangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "工業廃水",
+    "kana": "kougyou haisui",
+    "arti": "limbah industri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "候補",
+    "kana": "kouho",
+    "arti": "kandidat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "工事",
+    "kana": "kouji",
+    "arti": "pekerjaan konstruksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "口実",
+    "kana": "koujitsu",
+    "arti": "alasan, dalih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "貢献",
+    "kana": "kouken",
+    "arti": "konstribusi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "高気圧",
+    "kana": "koukiatsu",
+    "arti": "tekanan udara tinggi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "航空",
+    "kana": "koukuu",
+    "arti": "penerbangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "項目",
+    "kana": "koumoku",
+    "arti": "barang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行楽",
+    "kana": "kouraku",
+    "arti": "hiburan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "考慮",
+    "kana": "kouryo",
+    "arti": "pertimbangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "黄砂",
+    "kana": "kousa",
+    "arti": "fenomena pasir kuning",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "交差点",
+    "kana": "kousaten",
+    "arti": "persimpangan jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "構成",
+    "kana": "kousei",
+    "arti": "struktur, kerangka, susunan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "光線",
+    "kana": "kousen",
+    "arti": "sinar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "高速",
+    "kana": "kousoku",
+    "arti": "kecepatan tinggi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "交替",
+    "kana": "koutai",
+    "arti": "pergantian, pertukaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "肯定",
+    "kana": "koutei",
+    "arti": "afirmasi, positif",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "交通標識",
+    "kana": "koutsuu hyoushiki",
+    "arti": "petunjuk lalu lintas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "紅葉",
+    "kana": "kouyou/momiji",
+    "arti": "daun yang menguning",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "構造",
+    "kana": "kouzou",
+    "arti": "struktur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "洪水",
+    "kana": "kouzui",
+    "arti": "air bah, banjir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "区別",
+    "kana": "kubetsu",
+    "arti": "perbedaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "嘴",
+    "kana": "kuchibashi",
+    "arti": "paruh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "口癖",
+    "kana": "kuchiguse",
+    "arti": "kata-kata yg sering diucapkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "工夫",
+    "kana": "kufuu",
+    "arti": "upaya, usaha",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "区域",
+    "kana": "kuiki",
+    "arti": "batas, lapisan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "苦情",
+    "kana": "kujou",
+    "arti": "keluhan, pengaduan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "茎",
+    "kana": "kuki",
+    "arti": "batang, tangkai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "訓練",
+    "kana": "kunren",
+    "arti": "praktik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "クレーム",
+    "kana": "kureemu",
+    "arti": "tuntutan, celaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "クレヨン",
+    "kana": "kureyon",
+    "arti": "krayon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "クリップ",
+    "kana": "kurippu",
+    "arti": "klip, jepitan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "苦労",
+    "kana": "kurou",
+    "arti": "jerih-payah, kerja keras",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "癖",
+    "kana": "kuse",
+    "arti": "kebiasaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "掘削",
+    "kana": "kussaku",
+    "arti": "penggalian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "句点/丸",
+    "kana": "kuten/maru",
+    "arti": "tanda titik (.)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "空気",
+    "kana": "kuuki",
+    "arti": "udara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "空想",
+    "kana": "kuusou",
+    "arti": "khayalan, imajinasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "屑",
+    "kana": "kuzu",
+    "arti": "sampah, serpihan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "客間",
+    "kana": "kyakuma",
+    "arti": "kamar tamu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "客席",
+    "kana": "kyakuseki",
+    "arti": "tempat duduk tamu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "キャンセル",
+    "kana": "kyanseru",
+    "arti": "batal, cancel",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脅威",
+    "kana": "kyoui",
+    "arti": "ancaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "胸囲",
+    "kana": "kyoui",
+    "arti": "lingkar dada",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "教授",
+    "kana": "kyouju",
+    "arti": "professor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "教科",
+    "kana": "kyouka",
+    "arti": "mata pelajaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "供給",
+    "kana": "kyoukyuu",
+    "arti": "suplai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "共産",
+    "kana": "kyousan",
+    "arti": "komunisme",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "急坂",
+    "kana": "kyuuhan",
+    "arti": "tanjakan curam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "吸収",
+    "kana": "kyuushuu",
+    "arti": "penyerapan, absorpsi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "急増",
+    "kana": "kyuuzou",
+    "arti": "penambahan tiba-tiba",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "街角",
+    "kana": "machikado",
+    "arti": "sudut kota",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "窓",
+    "kana": "mado",
+    "arti": "jendela",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "窓口",
+    "kana": "madoguchi",
+    "arti": "loket",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "孫",
+    "kana": "mago",
+    "arti": "cucu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "マグニチュード",
+    "kana": "magunichuudo",
+    "arti": "magnitudo (satuan getaran gempa)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "迷子",
+    "kana": "maigo",
+    "arti": "anak tersesat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "真夏日",
+    "kana": "manatsubi",
+    "arti": "pertengahan musim panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "真似",
+    "kana": "mane",
+    "arti": "tiruan, jiplakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "万年筆",
+    "kana": "mannenhitsu",
+    "arti": "pulpen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "満足",
+    "kana": "manzoku",
+    "arti": "kepuasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "摩擦",
+    "kana": "masatsu",
+    "arti": "friksi, konflik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "マスター",
+    "kana": "masutaa",
+    "arti": "majikan, master",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "回り",
+    "kana": "mawari",
+    "arti": "sekeliling, sekitar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "回り道/迂回路",
+    "kana": "mawari michi/ukairo",
+    "arti": "jalan memutar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "芽",
+    "kana": "me",
+    "arti": "tunas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "恵み/恩恵",
+    "kana": "megumi/ongkei",
+    "arti": "berkah, karunia",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目薬",
+    "kana": "megusuri",
+    "arti": "obat mata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "名簿",
+    "kana": "meibo",
+    "arti": "daftar nama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "名詞",
+    "kana": "meishi",
+    "arti": "kata benda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "名所",
+    "kana": "meisho",
+    "arti": "tempat terkenal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "迷惑",
+    "kana": "meiwaku",
+    "arti": "masalah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "メモ帳",
+    "kana": "memochou",
+    "arti": "buku memo",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "綿",
+    "kana": "men",
+    "arti": "kapas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "免許",
+    "kana": "menkyo",
+    "arti": "lisensi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "面積",
+    "kana": "menseki",
+    "arti": "area",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雌蕊",
+    "kana": "meshibe",
+    "arti": "putik bunga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目下",
+    "kana": "meshita",
+    "arti": "bawahan (org yg drajatnya lbh rendah)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雌",
+    "kana": "mesu",
+    "arti": "betina",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目上",
+    "kana": "meue",
+    "arti": "atasan (org yg drajatnya lbh tinggi)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目安",
+    "kana": "meyasu",
+    "arti": "pedoman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "道なり",
+    "kana": "michinari",
+    "arti": "menyusuri jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "未払い",
+    "kana": "miharai",
+    "arti": "tunggakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見かけ",
+    "kana": "mikake",
+    "arti": "penampilan, rupa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見方",
+    "kana": "mikata",
+    "arti": "teman, pendukung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "幹",
+    "kana": "miki",
+    "arti": "batang pohon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "民話",
+    "kana": "minwa",
+    "arti": "cerita rakyat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "民族",
+    "kana": "minzoku",
+    "arti": "bangsa, suku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "密閉",
+    "kana": "mippei",
+    "arti": "keadaan tertutup rapat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "魅力",
+    "kana": "miryoku",
+    "arti": "pesona",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目次",
+    "kana": "mokuji",
+    "arti": "daftar isi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "門",
+    "kana": "mon",
+    "arti": "pintu gerbang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "文句",
+    "kana": "monku",
+    "arti": "protes,keluhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "物差し",
+    "kana": "monosashi",
+    "arti": "penggaris",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "元",
+    "kana": "moto",
+    "arti": "asal, sumber, awal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "申し訳",
+    "kana": "moushiwake",
+    "arti": "permintaan maaf",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "模様",
+    "kana": "moyou",
+    "arti": "pola",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無断",
+    "kana": "mudan",
+    "arti": "tanpa izin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "矛盾",
+    "kana": "mujun",
+    "arti": "kontradiksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無料",
+    "kana": "muryou",
+    "arti": "gratis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "武者",
+    "kana": "musha",
+    "arti": "kesatria, pejuang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無視",
+    "kana": "mushi",
+    "arti": "pengabaian, tidak peduli",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "虫歯",
+    "kana": "mushiba",
+    "arti": "gigi berlubang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無抵抗",
+    "kana": "muteikou",
+    "arti": "tanpa perlawanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鍋物",
+    "kana": "nabemono",
+    "arti": "makanan yg dimakan sambil dimasak dlm panci",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雪崩",
+    "kana": "nadare",
+    "arti": "salju longsor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "長雨",
+    "kana": "nagaame",
+    "arti": "hujan terus menerus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "半ば",
+    "kana": "nakaba",
+    "arti": "pertengahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "仲直り",
+    "kana": "nakanaori",
+    "arti": "rekonsiliasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "並木",
+    "kana": "namiki",
+    "arti": "deretan pohon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "波線",
+    "kana": "namisen, hasen",
+    "arti": "garis gelombang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夏祭り",
+    "kana": "natsu matsuri",
+    "arti": "festival musim panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夏休み",
+    "kana": "natsuyasumi",
+    "arti": "libur musim panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "納得",
+    "kana": "nattoku",
+    "arti": "menerima, setuju",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "値段",
+    "kana": "nedan",
+    "arti": "harga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寝巻き",
+    "kana": "nemaki",
+    "arti": "piyama, baju tidur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "年代",
+    "kana": "nendai",
+    "arti": "orde, zaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "年賀状",
+    "kana": "nengajou",
+    "arti": "kartu ucapan tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "熱波",
+    "kana": "neppa",
+    "arti": "gelombang panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "熱",
+    "kana": "netsu",
+    "arti": "demam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "熱帯性低気圧",
+    "kana": "nettaisei teikiatsu",
+    "arti": "siklon tropis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "熱帯夜",
+    "kana": "nettaiya",
+    "arti": "malam yang panas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日中",
+    "kana": "nicchuu",
+    "arti": "siang hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日常",
+    "kana": "nichijou",
+    "arti": "sehari-hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "にきび",
+    "kana": "nikibi",
+    "arti": "jerawat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日課",
+    "kana": "nikka",
+    "arti": "pelajaran harian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "にこにこ",
+    "kana": "niko-niko",
+    "arti": "senyum-senyum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "荷物",
+    "kana": "nimotsu",
+    "arti": "barang bawaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "人間",
+    "kana": "ningen",
+    "arti": "manusia",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "二酸化炭素",
+    "kana": "nisanka tanso",
+    "arti": "karbon dioksida, CO2",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "日程",
+    "kana": "nittei",
+    "arti": "agenda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "にわか雨",
+    "kana": "niwakaame",
+    "arti": "hujan yang tiba-tiba turun lalu berhenti",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "にやにや",
+    "kana": "niya-niya",
+    "arti": "cengengesan, tertawa kecil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "糊",
+    "kana": "nori",
+    "arti": "lem",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乗り換え",
+    "kana": "norikae",
+    "arti": "berganti kendaraan/kereta",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "のろのろ",
+    "kana": "noro-noro",
+    "arti": "lambat, pelan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脳",
+    "kana": "nou",
+    "arti": "otak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "農学",
+    "kana": "nougaku",
+    "arti": "ilmu pertanian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "農業",
+    "kana": "nougyou",
+    "arti": "industri pertanian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "農家",
+    "kana": "nouka",
+    "arti": "petani",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "能率",
+    "kana": "nouritsu",
+    "arti": "efisiensi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "能力",
+    "kana": "nouryoku",
+    "arti": "kemampuan, kapasitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "農産",
+    "kana": "nousan",
+    "arti": "produk pertanian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "塗り薬",
+    "kana": "nurigusuri",
+    "arti": "obat oles, salep",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "女房",
+    "kana": "nyoubou",
+    "arti": "istri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入梅",
+    "kana": "nyuubai",
+    "arti": "permulaan musim hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入学式",
+    "kana": "nyuugakushiki",
+    "arti": "upacara masuk sekolah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入院",
+    "kana": "nyuuin",
+    "arti": "masuk rumah sakit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入社式",
+    "kana": "nyuushashiki",
+    "arti": "upacara penerimaan karyawan baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お花見",
+    "kana": "ohanami",
+    "arti": "melihat bunga sakura mekar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お彼岸",
+    "kana": "ohigan",
+    "arti": "waktu ziarah ke makam leluhur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "屋上",
+    "kana": "okujou",
+    "arti": "rooftop",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お餅",
+    "kana": "omochi",
+    "arti": "kue mochi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "思い出",
+    "kana": "omoide",
+    "arti": "kenangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "温暖前線",
+    "kana": "ondan zensen",
+    "arti": "gelombang udara hangat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "音楽",
+    "kana": "ongaku",
+    "arti": "musik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "恩恵",
+    "kana": "onkei",
+    "arti": "berkah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "温室効果ガス",
+    "kana": "onshitsu kouka gasu",
+    "arti": "gas efek rumah kaca",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大雨",
+    "kana": "ooame",
+    "arti": "hujan lebat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大通り",
+    "kana": "oodoori",
+    "arti": "jalan raya, jalan utama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大風",
+    "kana": "ookaze",
+    "arti": "angina besar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大掃除",
+    "kana": "oosouji",
+    "arti": "bersih-bersih besar-besaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大雪",
+    "kana": "ooyuuki",
+    "arti": "salju lebat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "織姫",
+    "kana": "orihime",
+    "arti": "bintang vega",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お歳暮",
+    "kana": "oseibo",
+    "arti": "bingkisan akhir tahun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お世辞",
+    "kana": "oseji",
+    "arti": "pujian yang bersifat menjilat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "汚染",
+    "kana": "osen",
+    "arti": "polusi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お節料理",
+    "kana": "oshechi ryouri",
+    "arti": "hidangan tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お正月",
+    "kana": "oshougatsu",
+    "arti": "tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雄",
+    "kana": "osu",
+    "arti": "jantan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お年玉",
+    "kana": "otoshidama",
+    "arti": "angpao (dibagikan pada tahun baru)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "お屠蘇",
+    "kana": "otoso",
+    "arti": "sake khusus tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "欧米",
+    "kana": "oubei",
+    "arti": "eropa dan amerika",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "殴打",
+    "kana": "ouda",
+    "arti": "pukulan, tonjokan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "横断歩道",
+    "kana": "oudan hodou",
+    "arti": "tempat penyeberangan jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "応用",
+    "kana": "ouyou",
+    "arti": "penggunaan, aplikasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "オゾンホール",
+    "kana": "ozon hooru",
+    "arti": "lubang ozon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "パンチ",
+    "kana": "panchi",
+    "arti": "pelubang kertas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ぺこぺこ",
+    "kana": "peko-peko",
+    "arti": "keroncongan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "プレッシャー",
+    "kana": "puresshaa",
+    "arti": "tekanan, pressure",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雷雨",
+    "kana": "rai’u",
+    "arti": "hujan guntur, hujan petir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "落雷",
+    "kana": "rakurai",
+    "arti": "petir yang menyambar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乱暴",
+    "kana": "ranbou",
+    "arti": "mengamuk, kasar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "レギュラー",
+    "kana": "regyuraa",
+    "arti": "umum, biasa, regular",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "例",
+    "kana": "rei",
+    "arti": "contoh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "礼",
+    "kana": "rei",
+    "arti": "memberi hormat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "冷害",
+    "kana": "reigai",
+    "arti": "kerusakan hasil panen karena cuaca dingin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "冷夏",
+    "kana": "reika",
+    "arti": "musim panas yang sejuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "冷凍",
+    "kana": "reitou",
+    "arti": "pembekuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "歴史",
+    "kana": "rekishi",
+    "arti": "sejarah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "煉瓦",
+    "kana": "renga",
+    "arti": "batu bata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "連合",
+    "kana": "rengou",
+    "arti": "persatuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "連続",
+    "kana": "renzoku",
+    "arti": "beruntun, berantai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "レポート用紙",
+    "kana": "repooto youshi",
+    "arti": "kertas laporan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "利益",
+    "kana": "rieki",
+    "arti": "profit, keuntungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "リハビリ",
+    "kana": "rihabiri",
+    "arti": "rehabilitasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "陸橋",
+    "kana": "rikkyou",
+    "arti": "jembatan penyeberangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "林業",
+    "kana": "ringyou",
+    "arti": "industri perhutanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "臨時",
+    "kana": "rinji",
+    "arti": "sementara waktu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "リサイクル",
+    "kana": "risaikuru",
+    "arti": "daur ulang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "理想",
+    "kana": "risou",
+    "arti": "ideal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "リズム",
+    "kana": "rizumu",
+    "arti": "ritme, irama, rhythm",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "路地",
+    "kana": "roji",
+    "arti": "lorong, gang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ロマンチック",
+    "kana": "romanchikku",
+    "arti": "romantis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "論争",
+    "kana": "ronsou",
+    "arti": "kontroversi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ロータリー",
+    "kana": "rootarii",
+    "arti": "bundaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "老人",
+    "kana": "roujin",
+    "arti": "orang tua",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蝋燭",
+    "kana": "rousoku",
+    "arti": "lilin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "旅館",
+    "kana": "ryokan",
+    "arti": "penginapan ala Jepang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "量",
+    "kana": "ryou",
+    "arti": "kuantitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "料理",
+    "kana": "ryouri",
+    "arti": "masakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "領収",
+    "kana": "ryoushuu",
+    "arti": "resi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "サービス",
+    "kana": "saabisu",
+    "arti": "pelayanan, service",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "サークル",
+    "kana": "saakuru",
+    "arti": "perkumpulan, kelompok, circle",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "砂漠化",
+    "kana": "sabakuka",
+    "arti": "penggundulan hutan, pembentukan gurun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "差別",
+    "kana": "sabetsu",
+    "arti": "diskriminasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作業",
+    "kana": "sagyou",
+    "arti": "pekerjaan, pengoperasian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作法",
+    "kana": "sahou/sakuhou",
+    "arti": "etika",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "栽培",
+    "kana": "saibai",
+    "arti": "penanaman, pembudidayaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "裁縫",
+    "kana": "saihou",
+    "arti": "jahitan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "最高",
+    "kana": "saikou",
+    "arti": "terbaik, tertinggi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "災難",
+    "kana": "sainan",
+    "arti": "bencana, mala petaka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "才能",
+    "kana": "sainou",
+    "arti": "talenta, bakat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "匙",
+    "kana": "saji",
+    "arti": "sanduk, sendok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "堺",
+    "kana": "sakai",
+    "arti": "perbatasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逆さ",
+    "kana": "sakasa",
+    "arti": "terbalik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逆様",
+    "kana": "sakasama",
+    "arti": "pembalikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作家",
+    "kana": "sakka",
+    "arti": "penulis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作文",
+    "kana": "sakubun",
+    "arti": "karangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作品",
+    "kana": "sakuhin",
+    "arti": "produk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "索引",
+    "kana": "sakuin",
+    "arti": "indeks",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "作成",
+    "kana": "sakusei",
+    "arti": "penyusunan, pembingkaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "産地",
+    "kana": "sanchi",
+    "arti": "area produksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "三丁目",
+    "kana": "sanchoume",
+    "arti": "pembagian tata kota",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "三角",
+    "kana": "sankaku",
+    "arti": "segitiga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "参考",
+    "kana": "sankou",
+    "arti": "referensi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "三脚",
+    "kana": "sankyaku",
+    "arti": "tripod",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "サンプル",
+    "kana": "sanpuru",
+    "arti": "sampel, contoh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "山林",
+    "kana": "sanrin",
+    "arti": "gunung hutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "酸性",
+    "kana": "sansei",
+    "arti": "keasaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "賛成",
+    "kana": "sansei",
+    "arti": "setuju",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "酸性雨",
+    "kana": "sanseiu",
+    "arti": "hujan asam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "酸素",
+    "kana": "sanso",
+    "arti": "oksigen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "笹",
+    "kana": "sasa",
+    "arti": "tanaman bambu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "左折",
+    "kana": "sasetsu",
+    "arti": "belok kiri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "差し支え",
+    "kana": "sashitsukae",
+    "arti": "halangan, rintangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沙汰",
+    "kana": "sata",
+    "arti": "hal, peristiwa, kejadian, isu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "撮影",
+    "kana": "satsuei",
+    "arti": "pengambilan film, pemotretan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "接着剤",
+    "kana": "secchakuzai",
+    "arti": "bahan perekat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "設置",
+    "kana": "secchi",
+    "arti": "pemasangan, instalasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "世代",
+    "kana": "sedai",
+    "arti": "generasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "性別",
+    "kana": "seibetsu",
+    "arti": "jenis kelamin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成分",
+    "kana": "seibun",
+    "arti": "komponen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生物学",
+    "kana": "seibutsugaku",
+    "arti": "biologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成長",
+    "kana": "seichou",
+    "arti": "tumbuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "制限",
+    "kana": "seigen",
+    "arti": "pembatasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生活",
+    "kana": "seikatsu",
+    "arti": "kehidupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "請求",
+    "kana": "seikyuu",
+    "arti": "tuntutan, klaim",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生命",
+    "kana": "seimei",
+    "arti": "hidup, kehidupan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "性能",
+    "kana": "seinou",
+    "arti": "efisiensi, daya guna",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "整理",
+    "kana": "seiri",
+    "arti": "penyortiran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成立",
+    "kana": "seiritsu",
+    "arti": "pengesahan, realisasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成績",
+    "kana": "seiseki",
+    "arti": "hasil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "精神",
+    "kana": "seishin",
+    "arti": "rohani, kejiwaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "正数",
+    "kana": "seisuu",
+    "arti": "bilangan bulat/utuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "声帯",
+    "kana": "seitai",
+    "arti": "pita suara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "晴天",
+    "kana": "seiten",
+    "arti": "langit cerah, langit biru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "西洋",
+    "kana": "seiyou",
+    "arti": "Barat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "製造",
+    "kana": "seizou",
+    "arti": "pembuatan, produksi, manufaktur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "製造業",
+    "kana": "seizougyou",
+    "arti": "industri manufaktur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "世間",
+    "kana": "seken",
+    "arti": "dunia",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "積極",
+    "kana": "sekkyoku",
+    "arti": "positif",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "栓",
+    "kana": "sen",
+    "arti": "tutup botol, sumbat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "先日",
+    "kana": "senjitsu",
+    "arti": "lain hari, hari lainnya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "専攻",
+    "kana": "senkou",
+    "arti": "jurusan, fakultas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "専務",
+    "kana": "senmu",
+    "arti": "direktur eksekutif senior",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "扇風機",
+    "kana": "senpuuki",
+    "arti": "kipas angin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "センス",
+    "kana": "sensu",
+    "arti": "cita rasa, sense",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "洗濯",
+    "kana": "sentaku",
+    "arti": "cucian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "選択",
+    "kana": "sentaku",
+    "arti": "pilihan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "セロハンテープ",
+    "kana": "serohanteepu",
+    "arti": "selotip",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "接触",
+    "kana": "sesshoku",
+    "arti": "bersenggolan, berserempetan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "説",
+    "kana": "setsu",
+    "arti": "teori",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "設備",
+    "kana": "setsubi",
+    "arti": "fasilitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "節分",
+    "kana": "setsubun",
+    "arti": "1 hari sebelum musim semi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "節約",
+    "kana": "setsuyaku",
+    "arti": "hemat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "設定",
+    "kana": "settei",
+    "arti": "pengaturan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "シャープペンシル",
+    "kana": "shaapu pensiru",
+    "arti": "pensil mekanik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "車道",
+    "kana": "shadou",
+    "arti": "jalur mobil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "社会",
+    "kana": "shakai",
+    "arti": "masyarakat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "試合",
+    "kana": "shiai",
+    "arti": "pertandingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "芝居",
+    "kana": "shibai",
+    "arti": "akting",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脂肪",
+    "kana": "shibou",
+    "arti": "lemak, gemuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "死亡者",
+    "kana": "shibousha",
+    "arti": "korban meninggal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "指導",
+    "kana": "shidou",
+    "arti": "kepemimpinan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "紫外線",
+    "kana": "shigaisen",
+    "arti": "sinar ultra violet",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "刺激",
+    "kana": "shigeki",
+    "arti": "rangsangan, stimulasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支配",
+    "kana": "shihai",
+    "arti": "menguasai, pengendalian, dominasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "シール",
+    "kana": "shiiru",
+    "arti": "stiker",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "シーズン",
+    "kana": "shiizun",
+    "arti": "musim, season",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "指示",
+    "kana": "shiji",
+    "arti": "instruksi, arahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "司会",
+    "kana": "shikai",
+    "arti": "moderator, pemandu acara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "資金援助",
+    "kana": "shikin enjo",
+    "arti": "bantuan finansial",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "失格",
+    "kana": "shikkaku",
+    "arti": "diskualifikasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湿気",
+    "kana": "shikke",
+    "arti": "kelembaban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "職人",
+    "kana": "shikunin",
+    "arti": "pekerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "しめ飾り",
+    "kana": "shimekazari",
+    "arti": "ornamen dekorasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "染み",
+    "kana": "shimi",
+    "arti": "noda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "霜",
+    "kana": "shimo",
+    "arti": "embun beku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "霜柱",
+    "kana": "shimobashira",
+    "arti": "gumpalan embun beku berbentuk tiang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "霜曇り",
+    "kana": "shimogumori",
+    "arti": "malam yg mendung dan berembun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "親友",
+    "kana": "shin&#39;yuu",
+    "arti": "teman dekat, sahabat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "慎重",
+    "kana": "shinchou",
+    "arti": "penuh kehati-hatian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "震度",
+    "kana": "shindo",
+    "arti": "besarnya getaran gempa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "進撃",
+    "kana": "shingeki",
+    "arti": "serbuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "震源",
+    "kana": "shingen",
+    "arti": "pusat gempa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "信号",
+    "kana": "shingou",
+    "arti": "lampu lalu lintas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "神経",
+    "kana": "shinkei",
+    "arti": "saraf",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新米",
+    "kana": "shinmai",
+    "arti": "beras baru panen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新年会",
+    "kana": "shinnenkai",
+    "arti": "pesta tahun baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新入社員",
+    "kana": "shinnyuu shain",
+    "arti": "pegawai baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新入生",
+    "kana": "shinnyuusei",
+    "arti": "murid baru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "信頼",
+    "kana": "shinrai",
+    "arti": "kepercayaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "森林破壊",
+    "kana": "shinrin hakai",
+    "arti": "perusakan hutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "森林火災",
+    "kana": "shinrin kasai",
+    "arti": "kebakaran hutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "親類",
+    "kana": "shinrui",
+    "arti": "relasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "親戚",
+    "kana": "shinseki",
+    "arti": "sanak saudara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "新春",
+    "kana": "shinshun",
+    "arti": "awal musim semi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浸水",
+    "kana": "shinsui",
+    "arti": "tergenang air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "信用",
+    "kana": "shinyou",
+    "arti": "kepercayaan, keyakinan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "心臓",
+    "kana": "shinzou",
+    "arti": "jantung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "執筆",
+    "kana": "shippitsu",
+    "arti": "penulisan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "尻尾",
+    "kana": "shippo",
+    "arti": "ekor, buntut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湿布",
+    "kana": "shippu",
+    "arti": "kompres",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "白髪",
+    "kana": "shiraga, hakuhatsu",
+    "arti": "uban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "知り合い",
+    "kana": "shiriau",
+    "arti": "kenalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "シリーズ",
+    "kana": "shiriizu",
+    "arti": "rangkaian, seri, serial, series",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "姿勢",
+    "kana": "shisei",
+    "arti": "sikap, perawakan, postur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支社",
+    "kana": "shisha",
+    "arti": "kantor cabang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "死傷者",
+    "kana": "shishousha",
+    "arti": "korban meninggal dan luka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支出",
+    "kana": "shishutsu",
+    "arti": "pengeluaran, pembelanjaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支度",
+    "kana": "shitaku",
+    "arti": "persiapan, perencanaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "指定",
+    "kana": "shitei",
+    "arti": "penunjuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支店",
+    "kana": "shiten",
+    "arti": "toko cabang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "しわ",
+    "kana": "shiwa",
+    "arti": "keriput, kerutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "自然保護",
+    "kana": "shizen hogo",
+    "arti": "perlindungan alam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "食料",
+    "kana": "shokuryou",
+    "arti": "bahan makanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "食糧危機",
+    "kana": "shokuryou kiki",
+    "arti": "krisis bahan makanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "食欲",
+    "kana": "shokuyoku",
+    "arti": "nafsu makan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "食欲増進",
+    "kana": "shokuyoku zoushin",
+    "arti": "bertambah nafsu makan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "書物",
+    "kana": "shomotsu",
+    "arti": "buku bacaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "商売",
+    "kana": "shoubai",
+    "arti": "perdagangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "消防",
+    "kana": "shoubou",
+    "arti": "pemadam kebakaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "勝負",
+    "kana": "shoubu",
+    "arti": "menang-kalah, pertandingan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "承知",
+    "kana": "shouchi",
+    "arti": "persetujuan, pengertian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "小腸",
+    "kana": "shouchou",
+    "arti": "usus kecil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "障害",
+    "kana": "shougai",
+    "arti": "rintangan, penghambat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "奨学",
+    "kana": "shougaku",
+    "arti": "beasiswa belajar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "将棋",
+    "kana": "shougi",
+    "arti": "shogi (catur Jepang)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "正午",
+    "kana": "shougo",
+    "arti": "siang hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "商業",
+    "kana": "shougyou",
+    "arti": "industri perdagangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "症状",
+    "kana": "shoujou",
+    "arti": "gejala",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "消化",
+    "kana": "shouka",
+    "arti": "pencernaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "紹介",
+    "kana": "shoukai",
+    "arti": "memperkenalkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "賞金",
+    "kana": "shoukin",
+    "arti": "hadiah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "証明",
+    "kana": "shoumei",
+    "arti": "bukti",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "正面",
+    "kana": "shoumen",
+    "arti": "depan, permukaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "正面衝突",
+    "kana": "shoumen shoutotsu",
+    "arti": "tabrakan muka dengan muka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "正味",
+    "kana": "shoumi",
+    "arti": "bersih, net",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "消耗",
+    "kana": "shoumou",
+    "arti": "aus, erosi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "承認",
+    "kana": "shounin",
+    "arti": "persetujuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "商社",
+    "kana": "shousha",
+    "arti": "perusahaan dagang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "昇進",
+    "kana": "shoushin",
+    "arti": "promosi, naik pangkat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "衝突",
+    "kana": "shoutotsu",
+    "arti": "tabrakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "所有",
+    "kana": "shoyuu",
+    "arti": "kepemilikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "主張",
+    "kana": "shuchou",
+    "arti": "penekanan, penegasan, desakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手段",
+    "kana": "shudan",
+    "arti": "cara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "主婦",
+    "kana": "shufu",
+    "arti": "ibu rumah tangga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "主義",
+    "kana": "shugi",
+    "arti": "azas, prinsip",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "出金",
+    "kana": "shukkin",
+    "arti": "pengeluaran uang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "宿題",
+    "kana": "shukudai",
+    "arti": "pekerjaan rumah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "縮小",
+    "kana": "shukushou",
+    "arti": "pengecilan, penyusutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "瞬間",
+    "kana": "shunkan",
+    "arti": "momen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "種類",
+    "kana": "shurui",
+    "arti": "jenis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "出世",
+    "kana": "shusse",
+    "arti": "keberhasilan dalam hidup, sukses",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "出席",
+    "kana": "shusseki",
+    "arti": "kehadiran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "集中",
+    "kana": "shuuchuu",
+    "arti": "konsentrasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "集中豪雨",
+    "kana": "shuuchuu gouu",
+    "arti": "hujan lebat yang terkonsentrasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "周辺",
+    "kana": "shuuhen",
+    "arti": "keliling, lingkar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "周囲",
+    "kana": "shuui",
+    "arti": "sekeliling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "習字",
+    "kana": "shuuji",
+    "arti": "menulis indah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "収穫",
+    "kana": "shuukaku",
+    "arti": "panen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "習慣",
+    "kana": "shuukan",
+    "arti": "kebiasaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "修正液",
+    "kana": "shuuseieki",
+    "arti": "tipe X, cairan pengoreksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "就職",
+    "kana": "shuushoku",
+    "arti": "mencari pekerjaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "主役",
+    "kana": "shuyaku",
+    "arti": "leading part",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "率直",
+    "kana": "socchoku",
+    "arti": "terus terang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "袖",
+    "kana": "sode",
+    "arti": "lengan baju",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "速力",
+    "kana": "sokuryoku",
+    "arti": "kecepatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "損",
+    "kana": "son",
+    "arti": "kerugian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "尊重",
+    "kana": "sonchou",
+    "arti": "hormat, respek",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "損得",
+    "kana": "sontoku",
+    "arti": "untung rugi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "存在",
+    "kana": "sonzai",
+    "arti": "keberadaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "算盤",
+    "kana": "soroban",
+    "arti": "simpoa, abaku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "祖先",
+    "kana": "sosen",
+    "arti": "leluhur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "組織",
+    "kana": "soshiki",
+    "arti": "organisasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "外廊下",
+    "kana": "soto rouka",
+    "arti": "lorong luar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "卒業式",
+    "kana": "sotsugyoushiki",
+    "arti": "upacara kelulusan, wisuda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "総合",
+    "kana": "sougou",
+    "arti": "gabungan, perpaduan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "倉庫",
+    "kana": "souko",
+    "arti": "gudang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "素麺",
+    "kana": "soumen",
+    "arti": "mie Jepang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "総務",
+    "kana": "soumu",
+    "arti": "urusan umum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "遭難",
+    "kana": "sounan",
+    "arti": "bencana, kecelakaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "操作",
+    "kana": "sousa",
+    "arti": "pengoperasian, cara menjalankan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "相当",
+    "kana": "soutou",
+    "arti": "menyesuaikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "騒音",
+    "kana": "sou’on",
+    "arti": "suara bising",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "酢",
+    "kana": "su",
+    "arti": "cuka",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "姿",
+    "kana": "sugata",
+    "arti": "sosok, figur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "杉",
+    "kana": "sugi",
+    "arti": "cedar Jepang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水没",
+    "kana": "suibotsu",
+    "arti": "tenggelam dalam air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水害",
+    "kana": "suigai",
+    "arti": "musibah banjir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "睡眠",
+    "kana": "suimin",
+    "arti": "tidur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水難事故",
+    "kana": "suinan jiko",
+    "arti": "kecelakaan di air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水質汚濁",
+    "kana": "suishitsu odaku",
+    "arti": "penurunan mutu air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "推測",
+    "kana": "suisoku",
+    "arti": "dugaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水滴",
+    "kana": "suiteki",
+    "arti": "titisan air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "水筒",
+    "kana": "suitou",
+    "arti": "termos, botol air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "膵臓",
+    "kana": "suizou",
+    "arti": "pankreas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "筋",
+    "kana": "suji",
+    "arti": "otot",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "墨",
+    "kana": "sumi",
+    "arti": "tinta hitam, tinta China",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "スタイル",
+    "kana": "sutairu",
+    "arti": "model, gaya, style",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "数学",
+    "kana": "suugaku",
+    "arti": "matematika",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "数字",
+    "kana": "suuji",
+    "arti": "bilangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "食物",
+    "kana": "tabemono, shokumotsu",
+    "arti": "makanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "体調",
+    "kana": "taichou",
+    "arti": "kondisi tubuh, keadaan tubuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "台風",
+    "kana": "taifuu",
+    "arti": "angin topan, taifun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逮捕",
+    "kana": "taiho",
+    "arti": "penangkapan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "退院",
+    "kana": "taiin",
+    "arti": "keluar rumah sakit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "体重",
+    "kana": "taijuu",
+    "arti": "berat badan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大会",
+    "kana": "taikai",
+    "arti": "konvensi, pertemuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "体験",
+    "kana": "taiken",
+    "arti": "pengalaman",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "大気汚染",
+    "kana": "taiki osen",
+    "arti": "polusi udara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "対立",
+    "kana": "tairitsu",
+    "arti": "perlawanan, konfrontasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "対策",
+    "kana": "taisaku",
+    "arti": "langkah, tindakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "体制",
+    "kana": "taisei",
+    "arti": "tatanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "対照",
+    "kana": "taishou",
+    "arti": "kontras",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "対象",
+    "kana": "taishou",
+    "arti": "target",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "体操",
+    "kana": "taisou",
+    "arti": "gimnastik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "滞在",
+    "kana": "taizai",
+    "arti": "menetap",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "高波",
+    "kana": "takanami",
+    "arti": "gelombang tinggi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "宝",
+    "kana": "takara",
+    "arti": "harta berharga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "宝くじ",
+    "kana": "takarakuji",
+    "arti": "lotre",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "試し",
+    "kana": "tameshi",
+    "arti": "percobaan, test",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "七夕",
+    "kana": "tanabata",
+    "arti": "festival bintang tgl 7 Juli",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "種",
+    "kana": "tane",
+    "arti": "bibit, benih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "単語",
+    "kana": "tango",
+    "arti": "kata/kosakata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "谷",
+    "kana": "tani",
+    "arti": "lembah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "他人",
+    "kana": "tanin",
+    "arti": "orang lain",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "短所",
+    "kana": "tansho",
+    "arti": "kekurangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "短縮",
+    "kana": "tanshuku",
+    "arti": "pemendekan, penyingkatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "淡水",
+    "kana": "tansui",
+    "arti": "air segar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "短冊",
+    "kana": "tanzaku",
+    "arti": "kertas menulis haiku",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "多少",
+    "kana": "tashou",
+    "arti": "sedikit banyak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "達成",
+    "kana": "tassei",
+    "arti": "pencapaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "縦",
+    "kana": "tate",
+    "arti": "vertikal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鬣",
+    "kana": "tategami",
+    "arti": "bulu tengkuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "竜巻",
+    "kana": "tatsumaki",
+    "arti": "angin puting beliung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手当",
+    "kana": "teate",
+    "arti": "tunjangan, penanganan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手袋",
+    "kana": "tebukuro",
+    "arti": "sarung tangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "堤防決壊",
+    "kana": "teibou kekkai",
+    "arti": "bendungan jebol",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "程度",
+    "kana": "teido",
+    "arti": "derajat, tingkatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "低下",
+    "kana": "teika",
+    "arti": "kemerosotan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "定価",
+    "kana": "teika",
+    "arti": "harga tetap, harga pas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "低気圧",
+    "kana": "teikiatsu",
+    "arti": "tekanan udara rendah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "抵抗",
+    "kana": "teikou",
+    "arti": "perlawanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "提供者",
+    "kana": "teikyousha",
+    "arti": "pendonor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "低温",
+    "kana": "teion",
+    "arti": "suhu rendah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手入れ",
+    "kana": "teire",
+    "arti": "merawat, memperbaiki",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "停止",
+    "kana": "teishi",
+    "arti": "pemberhentian, penyetopan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "提出",
+    "kana": "teishutsu",
+    "arti": "pengajuan, penyerahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手間",
+    "kana": "tema",
+    "arti": "waktu dan upaya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "典型",
+    "kana": "tenkei",
+    "arti": "ciri khas yg mewakili",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "天候",
+    "kana": "tenkou",
+    "arti": "iklim",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "転校生",
+    "kana": "tenkousei",
+    "arti": "murid pindahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手拭い",
+    "kana": "tenugui",
+    "arti": "handuk tangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手数料",
+    "kana": "tesuuryou",
+    "arti": "komisi, biaya penangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鉄道",
+    "kana": "tetsudou",
+    "arti": "rel kereta",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手続き",
+    "kana": "tetsudzuki",
+    "arti": "prosedur, tata cara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "哲学",
+    "kana": "tetsugaku",
+    "arti": "pilsuf,pilsafat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "徹底",
+    "kana": "tettei",
+    "arti": "tuntas, tandas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "土地",
+    "kana": "tochi",
+    "arti": "tanah, daratan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "徒歩",
+    "kana": "toho",
+    "arti": "jalan kaki",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "時計",
+    "kana": "tokei",
+    "arti": "jam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "床の間",
+    "kana": "tokonoma",
+    "arti": "tempat pajangan bunga/karya seni",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "所々",
+    "kana": "tokoro-dokoro",
+    "arti": "di sana sini, di mana-mana",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "得",
+    "kana": "toku",
+    "arti": "keuntungan, manfaat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "特長",
+    "kana": "tokuchou",
+    "arti": "keahlian khusus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "特色",
+    "kana": "tokushoku",
+    "arti": "karakteristik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "特定",
+    "kana": "tokutei",
+    "arti": "spesifik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "共働き",
+    "kana": "tomobataraki",
+    "arti": "suami-istri sama-sama kerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "トナカイ",
+    "kana": "tonakai",
+    "arti": "rusa kutub",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "突風",
+    "kana": "toppuu",
+    "arti": "angin yang tiba-tiba kencang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "トラブル",
+    "kana": "toraburu",
+    "arti": "masalah, trouble",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取締役",
+    "kana": "torishimariyaku",
+    "arti": "direktur (perusahaan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "都市",
+    "kana": "toshi",
+    "arti": "kota",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "到着",
+    "kana": "touchaku",
+    "arti": "kedatangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "灯台",
+    "kana": "toudai",
+    "arti": "mercesuar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "投票",
+    "kana": "touhyou",
+    "arti": "pemungutan suara",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "統一",
+    "kana": "touitsu",
+    "arti": "penyeragaman, penyatuan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "当時",
+    "kana": "touji",
+    "arti": "di waktu yang sama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "登場",
+    "kana": "toujou",
+    "arti": "kemunculan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "当選",
+    "kana": "tousen",
+    "arti": "yang terpilih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "翼",
+    "kana": "tsubasa",
+    "arti": "sayap",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蕾",
+    "kana": "tsubomi",
+    "arti": "kuncup, pucuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "粒",
+    "kana": "tsubu",
+    "arti": "butiran, bulir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "都合",
+    "kana": "tsugou",
+    "arti": "keadaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追加",
+    "kana": "tsuika",
+    "arti": "penambahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追突",
+    "kana": "tsuitotsu",
+    "arti": "ditabrak dari belakang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "突き当たり",
+    "kana": "tsukiatari",
+    "arti": "ujung jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "月極",
+    "kana": "tsukigime",
+    "arti": "sewa bulanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "月見",
+    "kana": "tsukimi",
+    "arti": "menikmati pemandangan bulan purnama",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "爪",
+    "kana": "tsume",
+    "arti": "kuku, cakar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "罪",
+    "kana": "tsumi",
+    "arti": "dosa, kejahatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "務め",
+    "kana": "tsutome",
+    "arti": "pelayanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通帳",
+    "kana": "tsuuchou",
+    "arti": "buku tabungan bank",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通過",
+    "kana": "tsuuka",
+    "arti": "lewat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通貨",
+    "kana": "tsuuka",
+    "arti": "mata uang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通訳",
+    "kana": "tsuuyaku",
+    "arti": "interpretasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "梅雨明け",
+    "kana": "tsuyuake",
+    "arti": "akhir musim hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "梅雨入り",
+    "kana": "tsuyuiri",
+    "arti": "awal musim hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "打ち身",
+    "kana": "uchimi",
+    "arti": "luka memar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "迂回路",
+    "kana": "ukairo",
+    "arti": "jalan memutar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雨季/梅雨",
+    "kana": "uki/tsuyu",
+    "arti": "musim hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "売り場",
+    "kana": "uriba",
+    "arti": "tempat jualan, pasar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "うろうろ",
+    "kana": "uro-uro",
+    "arti": "mondar mandir",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "右折",
+    "kana": "usetsu",
+    "arti": "belok kanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "雨天",
+    "kana": "uten",
+    "arti": "cuaca hujan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輪",
+    "kana": "wa",
+    "arti": "roda, lingkaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "話題",
+    "kana": "wadai",
+    "arti": "topik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "和服",
+    "kana": "wafuku",
+    "arti": "pakaian Jepang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輪ゴム",
+    "kana": "wagomu",
+    "arti": "gelang karet",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "賄賂",
+    "kana": "wairo",
+    "arti": "suap, penyogokan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脇",
+    "kana": "waki",
+    "arti": "ketiak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湾",
+    "kana": "wan",
+    "arti": "teluk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "割合",
+    "kana": "wariai",
+    "arti": "rating",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "割引",
+    "kana": "waribiki",
+    "arti": "diskon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "家賃",
+    "kana": "yachin",
+    "arti": "sewaan rumah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "矢印",
+    "kana": "yajirushi",
+    "arti": "tanda panah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夜間",
+    "kana": "yakan",
+    "arti": "waktu malam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薬缶",
+    "kana": "yakan",
+    "arti": "ketel",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夜行",
+    "kana": "yakou",
+    "arti": "jalan-jalan malam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薬学",
+    "kana": "yakugaku",
+    "arti": "farmakologi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薬品",
+    "kana": "yakuhin",
+    "arti": "obat-obatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "役目",
+    "kana": "yakume",
+    "arti": "kewajiban",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "役人",
+    "kana": "yakunin",
+    "arti": "petugas pemerintahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "役者",
+    "kana": "yakusha",
+    "arti": "pemeran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "山崩れ",
+    "kana": "yamakuzure",
+    "arti": "gunung longsor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "屋根",
+    "kana": "yane",
+    "arti": "atap",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予備",
+    "kana": "yobi",
+    "arti": "persiapan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "余暇",
+    "kana": "yoka",
+    "arti": "waktu luang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予期",
+    "kana": "yoki",
+    "arti": "harapan, dugaan, perkiraan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "横",
+    "kana": "yoko",
+    "arti": "horizontal, samping",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夜長",
+    "kana": "yonaga",
+    "arti": "malam yang terasa panjang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "喜び",
+    "kana": "yorokobi",
+    "arti": "kebahagiaan, kesenangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "世論",
+    "kana": "yoron",
+    "arti": "opini publik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予算",
+    "kana": "yosan",
+    "arti": "anggaran",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "余震",
+    "kana": "yoshin",
+    "arti": "gempa susulan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "余所",
+    "kana": "yosho",
+    "arti": "pengabaian",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予測",
+    "kana": "yosoku",
+    "arti": "prediksi, perkiraan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予定",
+    "kana": "yotei",
+    "arti": "perencanaan, jadwal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "四つ角",
+    "kana": "yotsukado",
+    "arti": "perempatan jalan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "洋服",
+    "kana": "youfuku",
+    "arti": "pakaian barat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "溶岩",
+    "kana": "yougan",
+    "arti": "lahar, lava",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "用語",
+    "kana": "yougo",
+    "arti": "istilah, terminologi, pemilihan kata",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "洋品",
+    "kana": "youhin",
+    "arti": "produk gaya barat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "用事",
+    "kana": "youji",
+    "arti": "tugas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "幼児",
+    "kana": "youji",
+    "arti": "balita",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "要求",
+    "kana": "youkyuu",
+    "arti": "tuntutan, permintaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "容積",
+    "kana": "youseki",
+    "arti": "kapasitas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "要素",
+    "kana": "youso",
+    "arti": "komponen",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "様子",
+    "kana": "yousu",
+    "arti": "keadaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "用途",
+    "kana": "youto",
+    "arti": "kegunaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予約",
+    "kana": "yoyaku",
+    "arti": "pemesanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "余裕",
+    "kana": "yoyuu",
+    "arti": "kelebihan, luang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湯気",
+    "kana": "yuge",
+    "arti": "asap uap air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輸血",
+    "kana": "yuketsu",
+    "arti": "transfusi darah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行方",
+    "kana": "yukue",
+    "arti": "keberadaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "行方不明",
+    "kana": "yukue fumei",
+    "arti": "tidak diketahui keberadaannya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ユニック",
+    "kana": "yunikku",
+    "arti": "unik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輸入",
+    "kana": "yunyuu",
+    "arti": "impor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輸送",
+    "kana": "yusou",
+    "arti": "pengangkutan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "郵便",
+    "kana": "yuubin",
+    "arti": "pos",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夕立",
+    "kana": "yuudachi",
+    "arti": "hujan guntur di sore hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "夕方",
+    "kana": "yuugata",
+    "arti": "sore hari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "友好",
+    "kana": "yuukou",
+    "arti": "pertemanan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "税関",
+    "kana": "zeikan",
+    "arti": "bea cukai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "全力",
+    "kana": "zenryoku",
+    "arti": "sekuat tenaga",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "全身",
+    "kana": "zenshin",
+    "arti": "seluruh tubuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "全体",
+    "kana": "zentai",
+    "arti": "keseluruhan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "善悪",
+    "kana": "zen’aku",
+    "arti": "baik buruk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増大",
+    "kana": "zoudai",
+    "arti": "perluasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増減",
+    "kana": "zougen",
+    "arti": "fluktuasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増発",
+    "kana": "zouhatsu",
+    "arti": "penambahan jumlah keberangkatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増員",
+    "kana": "zouin",
+    "arti": "penambahan jumlah anggota",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "草履",
+    "kana": "zouri",
+    "arti": "zori (sendal tradisional Jepang)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増水",
+    "kana": "zousui",
+    "arti": "penambahan volume air",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "増税",
+    "kana": "zouzei",
+    "arti": "penambahan nilai pajak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "随筆",
+    "kana": "zuihitsu",
+    "arti": "karangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "図鑑",
+    "kana": "zukan",
+    "arti": "buku referensi bergambar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "待ち合わせる",
+    "kana": "machiawaseru",
+    "arti": "bertemu di tempat yang sudah dijanjikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "舞い上がる",
+    "kana": "maiagaru",
+    "arti": "terbang melayang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "巻き込む",
+    "kana": "makikomu",
+    "arti": "terlibat, terjebak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "撒く",
+    "kana": "maku",
+    "arti": "menyemprotkan, menyipratkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "招く",
+    "kana": "maneku",
+    "arti": "mengundang, mengajak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "真似る",
+    "kana": "maneru",
+    "arti": "meniru",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "免れる",
+    "kana": "manukareru",
+    "arti": "terhindar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "まとめる",
+    "kana": "matomeru",
+    "arti": "merangkum, mengumpulkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目に遭う",
+    "kana": "me ni au",
+    "arti": "mengalami hal buruk, menderita hal yang buruk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目立つ",
+    "kana": "medatsu",
+    "arti": "mencolok, menjadi menonjol",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "恵む",
+    "kana": "megumu",
+    "arti": "memberkati, menganugerahi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "巡る",
+    "kana": "meguru",
+    "arti": "berputar, berkeliling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "砕く",
+    "kana": "kudaku",
+    "arti": "menghancurkan, meremukkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目覚める",
+    "kana": "mezameru",
+    "arti": "bangun, tersadar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "目指す",
+    "kana": "mezasu",
+    "arti": "mengincar, menargetkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見上げる",
+    "kana": "miageru",
+    "arti": "melihat ke atas, mendongak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "導く",
+    "kana": "michibiku",
+    "arti": "membimbing",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乱れる",
+    "kana": "midareru",
+    "arti": "menjadi kacau, menjadi berantakan/tidak teratur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "乱す",
+    "kana": "midasu",
+    "arti": "mengacaukan, mengacak-acak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見張る",
+    "kana": "miharu",
+    "arti": "mengawasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見舞う",
+    "kana": "mimau",
+    "arti": "menjenguk, membesuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "耳鳴りがする",
+    "kana": "miminari ga suru",
+    "arti": "telinga berdengung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見直す",
+    "kana": "minaosu",
+    "arti": "melihat ulang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見慣れる",
+    "kana": "minareru",
+    "arti": "menjadi terbiasa melihat (sesuatu), menjadi familiar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見逃す",
+    "kana": "minogasu",
+    "arti": "membiarkan lewat (dari penglihatan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "実る",
+    "kana": "minoru",
+    "arti": "berbuah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見下ろす",
+    "kana": "miorosu",
+    "arti": "melihat ke bawah, merendahkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "診る",
+    "kana": "miru",
+    "arti": "memeriksa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "満たす",
+    "kana": "mitasu",
+    "arti": "memenuhi, memuaskan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "認める",
+    "kana": "mitomeru",
+    "arti": "mengakui",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見積もる",
+    "kana": "mitsumoru",
+    "arti": "memperkirakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見分ける",
+    "kana": "miwakeru",
+    "arti": "membedakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "見渡す",
+    "kana": "miwatasu",
+    "arti": "melihat-lihat, menyurvei",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "持ち出す",
+    "kana": "mochidasu",
+    "arti": "membawa keluar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "用いる",
+    "kana": "mochiiru",
+    "arti": "mempergunakan, memakai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "持ち込む",
+    "kana": "mochikomu",
+    "arti": "membawa masuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "戻る",
+    "kana": "modoru",
+    "arti": "kembali, balik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "戻す",
+    "kana": "modosu",
+    "arti": "mengembalikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "燃え上がる",
+    "kana": "moeagaru",
+    "arti": "berapi-api, berkobar-kobar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "潜る",
+    "kana": "moguru",
+    "arti": "menyelam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漏らす",
+    "kana": "morasu",
+    "arti": "membocorkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漏れる",
+    "kana": "moreru",
+    "arti": "bocor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "盛り上がる",
+    "kana": "moriagaru",
+    "arti": "meninggi, memuncak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "モテる",
+    "kana": "moteru",
+    "arti": "menjadi popular, menjadi terkenal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "求める",
+    "kana": "motomeru",
+    "arti": "memohon, membutuhkan, mencari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "儲かる",
+    "kana": "moukaru",
+    "arti": "menguntungkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "儲ける",
+    "kana": "moukeru",
+    "arti": "mendapatkan keuntungan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ムカつく",
+    "kana": "mukatsuku",
+    "arti": "merasa kesal, memuakkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浮腫む",
+    "kana": "mukumu",
+    "arti": "bengkak (karena cairan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "結びつく",
+    "kana": "musubitsuku",
+    "arti": "menjadi terikat, menjadi terhubung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "名づける",
+    "kana": "nadzukeru",
+    "arti": "memberi nama, membaptis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "長引く",
+    "kana": "nagabiku",
+    "arti": "berlarut-larut, berkepanjangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "長引く",
+    "kana": "nagabiku",
+    "arti": "berlarut-larut, berkepanjangan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "怠ける",
+    "kana": "namakeru",
+    "arti": "bermalas-malasan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成り立つ",
+    "kana": "naritatsu",
+    "arti": "terdiri dari, terbuat dari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "無し遂げる",
+    "kana": "nashitogeru",
+    "arti": "menyelesaikan, mencapai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "願う",
+    "kana": "negau",
+    "arti": "mengharapkan, memohon",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "寝転がる",
+    "kana": "nekorogaru",
+    "arti": "berbaring",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "狙う",
+    "kana": "nerau",
+    "arti": "membidik, mengincar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "練る",
+    "kana": "neru",
+    "arti": "meremas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "賑わう",
+    "kana": "nigiwau",
+    "arti": "menjadi ramai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "濁る",
+    "kana": "nigoru",
+    "arti": "menjadi keruh/berlumpur/kabur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "濁す",
+    "kana": "nigosu",
+    "arti": "mengaburkan, mengeruhkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "匂う",
+    "kana": "niou",
+    "arti": "berbau, beraroma",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "睨む",
+    "kana": "niramu",
+    "arti": "memelototi, menatap tajam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "述べる",
+    "kana": "noberu",
+    "arti": "mengutarakan, menguraikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "飲み込む",
+    "kana": "nomikomu",
+    "arti": "menelan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "縫う",
+    "kana": "nuu",
+    "arti": "menjahit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入社する",
+    "kana": "nyuusha suru",
+    "arti": "masuk ke perusahaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "入手する",
+    "kana": "nyuushu suru",
+    "arti": "memperoleh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脅す/脅かす",
+    "kana": "odosu/odokasu",
+    "arti": "mengamcam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "補う",
+    "kana": "oginau",
+    "arti": "menutupi kekurangan, melengkapi, mengimbangi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追い返す",
+    "kana": "oikaesu",
+    "arti": "memukul mundur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追いかける",
+    "kana": "oikakeru",
+    "arti": "terkejar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追い越す",
+    "kana": "oikosu",
+    "arti": "menyusul, melampaui, melewati",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追い求める",
+    "kana": "oimotomeru",
+    "arti": "mengejar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "追いつく",
+    "kana": "oitsuku",
+    "arti": "mengejar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "侵す",
+    "kana": "okasu",
+    "arti": "melanggar, menyerbu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "犯す",
+    "kana": "okasu",
+    "arti": "melanggar, melakukan tindakan (kriminal)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "冒す",
+    "kana": "okasu",
+    "arti": "menentang, menyerang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "思い直す",
+    "kana": "omoinaosu",
+    "arti": "mempertimbangkan kembali",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "思い浮かぶ",
+    "kana": "omoiukabu",
+    "arti": "terbayang-bayang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "おならをする",
+    "kana": "onara o suru",
+    "arti": "kentut, buang angin",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "覆う",
+    "kana": "oou",
+    "arti": "menutupi, menyelubungi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "折り畳む",
+    "kana": "oritatamu",
+    "arti": "melipat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "衰える",
+    "kana": "otoroeru",
+    "arti": "melemah, menurun",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "劣る",
+    "kana": "otoru",
+    "arti": "kurang bermutu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "訪れる",
+    "kana": "otozureru",
+    "arti": "bertamu, mengunjungi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "応じる",
+    "kana": "oujiru",
+    "arti": "menjawab, memenuhi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "及ぶ",
+    "kana": "oyobu",
+    "arti": "1.  mencapai 2. setara, sejajar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "離陸する",
+    "kana": "ririku suru",
+    "arti": "lepas landas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "略す",
+    "kana": "ryakusu",
+    "arti": "menyingkat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "錆びる",
+    "kana": "sabiru",
+    "arti": "berkarat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "囀る",
+    "kana": "saezuru",
+    "arti": "berkicau, bercicit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "催促する",
+    "kana": "saisoku suru",
+    "arti": "mendesak, menuntut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "避ける",
+    "kana": "sakeru",
+    "arti": "menghindar, mengelak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "妨げる",
+    "kana": "samatageru",
+    "arti": "merintangi, menghalangi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "妨げる",
+    "kana": "samatageru",
+    "arti": "menghalangi, merintangi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浚われる",
+    "kana": "sarawareru",
+    "arti": "hanyut, tertelan ombak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "刺さる",
+    "kana": "sasaru",
+    "arti": "tertancap, tertusuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "囁く",
+    "kana": "sasayaku",
+    "arti": "bergumam, berbisik",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "刺す",
+    "kana": "sasu",
+    "arti": "menancap, menusuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "狭まる",
+    "kana": "sebamaru",
+    "arti": "menyempitkan, mengurangi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "成長する",
+    "kana": "seichou suru",
+    "arti": "tumbuh berkembang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "迫る",
+    "kana": "semaru",
+    "arti": "1.  mendekat, 2. mendesak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "背負う",
+    "kana": "seou",
+    "arti": "memanggul, mengemban, memikul (di punggung/tanggung jawab)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "しゃがむ",
+    "kana": "shagamu",
+    "arti": "berjongkok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "しゃっくりする",
+    "kana": "shakkuri suru",
+    "arti": "cegukan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "仕上がる",
+    "kana": "shiagaru",
+    "arti": "rampung, tuntas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "仕上げる",
+    "kana": "shiageru",
+    "arti": "merampungkan, menuntaskan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "縛る",
+    "kana": "shibaru",
+    "arti": "menjerat, mengikat, membalut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "痺れる",
+    "kana": "shibireru",
+    "arti": "mati rasa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "萎む/萎れる",
+    "kana": "shibomu/shioreru",
+    "arti": "layu, menciut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "絞る",
+    "kana": "shiboru",
+    "arti": "1.  memeras 2. memperkecil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "支払う",
+    "kana": "shiharau",
+    "arti": "membayar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "敷く",
+    "kana": "shiku",
+    "arti": "membentang, menggelar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湿る",
+    "kana": "shimeru",
+    "arti": "menjadi lembab",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "占める",
+    "kana": "shimeru",
+    "arti": "mencakup, menempati",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "示す",
+    "kana": "shimesu",
+    "arti": "menunjukkan, mempertunjukkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "従う",
+    "kana": "shitagau",
+    "arti": "mengikuti, mematuhi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "躾ける",
+    "kana": "shitsukeru",
+    "arti": "mendidik, mengajari (bersikap)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鎮まる/静まる",
+    "kana": "shizumaru",
+    "arti": "menjadi tenang, mereda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "鎮める/静める",
+    "kana": "shizumeru",
+    "arti": "menenangkan, meredakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沈める",
+    "kana": "shizumeru",
+    "arti": "menenggelamkan, membenamkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沈む",
+    "kana": "shizumu",
+    "arti": "tenggelam, terbenam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "生じる",
+    "kana": "shoujiru",
+    "arti": "menghasilkan, membuahkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "消去する",
+    "kana": "shoukyo suru",
+    "arti": "mengeliminasi, menghapus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "証明する",
+    "kana": "shoumei suru",
+    "arti": "membuktikan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "出世する",
+    "kana": "shusse suru",
+    "arti": "sukses (dalam kehidupan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "集合する",
+    "kana": "shuugou suru",
+    "arti": "berkumpul",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "集会する",
+    "kana": "shuukai suru",
+    "arti": "berkumpul untuk rapat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "終了する",
+    "kana": "shuuryou suru",
+    "arti": "berakhir, selesai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "就寝する",
+    "kana": "shuushin suru",
+    "arti": "tidur (formal)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "収集する",
+    "kana": "shuushuu suru",
+    "arti": "mengumpulkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "習得する",
+    "kana": "shuutoku suru",
+    "arti": "mempelajari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "添える",
+    "kana": "soeru",
+    "arti": "melampirkan, menambahkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "速達する",
+    "kana": "sokutatsu suru",
+    "arti": "mengirim cepat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "染まる",
+    "kana": "somaru",
+    "arti": "diwarnai, dipengaruhi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "染める",
+    "kana": "someru",
+    "arti": "mewarnai, mempengaruhi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "備える",
+    "kana": "sonaeru",
+    "arti": "mempersiapkan, melengkapi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "備わる",
+    "kana": "sonawaru",
+    "arti": "dipersiapkan, dilengkapi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逸らす",
+    "kana": "sorasu",
+    "arti": "memalingkan, mengalihkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "逸れる",
+    "kana": "soreru",
+    "arti": "menyimpang, meleset",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "注ぐ",
+    "kana": "sosogu",
+    "arti": "menuangkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沿う",
+    "kana": "sou",
+    "arti": "menyusuri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "据える",
+    "kana": "sueru",
+    "arti": "menempatkan, meletakkan, mengatur (posisi)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "優れる",
+    "kana": "sugureru",
+    "arti": "unggul, menonjol",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "推測する",
+    "kana": "suisoku suru",
+    "arti": "menduga, mengira",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "吸い取る",
+    "kana": "suitoru",
+    "arti": "memeras",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "透き通る",
+    "kana": "sukitooru",
+    "arti": "menjadi transparan, tembus pandang",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "救う",
+    "kana": "sukuu",
+    "arti": "menyelamatkan, menolong",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "済ます",
+    "kana": "sumasu",
+    "arti": "meredakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "澄む",
+    "kana": "sumu",
+    "arti": "menjadi bersih, menjadi jernih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "濯ぐ",
+    "kana": "susugu",
+    "arti": "membilas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "漱ぐ",
+    "kana": "susugu",
+    "arti": "berkumur-kumur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "啜る",
+    "kana": "susuru",
+    "arti": "menyeruput, membuang ingus",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "束ねる",
+    "kana": "tabaneru",
+    "arti": "membuntel, mengikat jadi buntelan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "立ち上がる",
+    "kana": "tachiagaru",
+    "arti": "bangkit",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "立ち止まる",
+    "kana": "tachidomaru",
+    "arti": "menghentikan langkah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "辿り着く",
+    "kana": "tadoritsuku",
+    "arti": "akhirnya tiba/sampai (setelah mendapat kesulitan), mendapat ide",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "耐える",
+    "kana": "taeru",
+    "arti": "menahan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "退社する",
+    "kana": "taisha suru",
+    "arti": "keluar dari perusahaan, berhenti bekerja di perusahaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "退職する",
+    "kana": "taishoku suru",
+    "arti": "pensiun bekerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "蓄える",
+    "kana": "takuwaeru",
+    "arti": "menimbun, menyimpan, menambah/mengembangkan (kemampuan, pengalaman dll)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ためらう",
+    "kana": "tamerau",
+    "arti": "bimbang, ragu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "溜める",
+    "kana": "tameru",
+    "arti": "bertambah, bertumpuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "達する",
+    "kana": "tassuru",
+    "arti": "mencapai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "戦う",
+    "kana": "tatakau",
+    "arti": "berperang, bertempur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "闘う",
+    "kana": "tatakau",
+    "arti": "berjuang, bergulat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "例える",
+    "kana": "tatoeru",
+    "arti": "mengumpamakan, memisalkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "経つ",
+    "kana": "tatsu",
+    "arti": "lewat, berlalu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "発つ",
+    "kana": "tatsu",
+    "arti": "berangkat, meninggalkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "頼る",
+    "kana": "tayoru",
+    "arti": "mengandalkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "手に入れる",
+    "kana": "te ni ireru",
+    "arti": "memperoleh, mendapatkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "提供する",
+    "kana": "teikyou suru",
+    "arti": "mensponsori, menawarkan, mendonor",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "訂正する",
+    "kana": "teisei suru",
+    "arti": "membetulkan, mengoreksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "適する",
+    "kana": "tekisuru",
+    "arti": "sesuai, cocok",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "転勤する",
+    "kana": "tenkin suru",
+    "arti": "berpindah kerja",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "転校する",
+    "kana": "tenkou suru",
+    "arti": "pindah sekolah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "転職する",
+    "kana": "tenshoku suru",
+    "arti": "berganti pekerjaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "照らす",
+    "kana": "terasu",
+    "arti": "menerangi, menyinari",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "照る",
+    "kana": "teru",
+    "arti": "bersinar, bercahaya",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "徹底する",
+    "kana": "tettei suru",
+    "arti": "tuntas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "飛び上がる",
+    "kana": "tobiagaru",
+    "arti": "melambung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "飛び回る",
+    "kana": "tobimawaru",
+    "arti": "terbang berkeliling",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "尖る",
+    "kana": "togaru",
+    "arti": "runcing, lancip",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "問い合わせる",
+    "kana": "toiawaseru",
+    "arti": "memastikan, menanyakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "問い合わせる",
+    "kana": "toiawaseru",
+    "arti": "menanyakan, mencari informasi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "問いかける",
+    "kana": "toikakeru",
+    "arti": "mengajukan pertanyaan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "閉じ籠る",
+    "kana": "tojikomoru",
+    "arti": "menutup diri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "溶かす",
+    "kana": "tokasu",
+    "arti": "mencairkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "通りかかる",
+    "kana": "toorikakaru",
+    "arti": "kebetulan lewat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り入れる",
+    "kana": "toriireru",
+    "arti": "menerapkan, mematenkan, menuai, mengadopsi (ide)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り消す",
+    "kana": "torikesu",
+    "arti": "membatalkan, menarik kembali",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り組む",
+    "kana": "torikumu",
+    "arti": "bergelut dengan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り戻す",
+    "kana": "torimodosu",
+    "arti": "mendapatkan kembali, mengambil kembali",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り除く",
+    "kana": "torinozoku",
+    "arti": "mencopot, melepas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "取り付く",
+    "kana": "toritsuku",
+    "arti": "melampirkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "年取る",
+    "kana": "toshitoru",
+    "arti": "tumbuh tua, menua",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "整える",
+    "kana": "totonoeru",
+    "arti": "mengatur, membereskan, merapikan, menyiapkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "整う",
+    "kana": "totonou",
+    "arti": "beres, rapi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "到着する",
+    "kana": "touchaku suru",
+    "arti": "tiba, sampai",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "登場する",
+    "kana": "toujou suru",
+    "arti": "muncul",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "唾する",
+    "kana": "tsuba suru",
+    "arti": "menelan ludah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "潰れる",
+    "kana": "tsubureru",
+    "arti": "lumat, hancur, bangkrut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "潰す",
+    "kana": "tsubusu",
+    "arti": "melumat, menghancurkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "呟く",
+    "kana": "tsubuyaku",
+    "arti": "menggerutu",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "継ぐ",
+    "kana": "tsugu",
+    "arti": "mewarisi, melanjutkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "費やす",
+    "kana": "tsuiyasu",
+    "arti": "membelanjakan, menghabiskan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "使い分ける",
+    "kana": "tsukaiwakeru",
+    "arti": "menggunakan dengan semestinya, menggunakan (sesuatu lain) dgn tujuan berbeda",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浸かる",
+    "kana": "tsukaru",
+    "arti": "terendam, berendam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浸ける",
+    "kana": "tsukeru",
+    "arti": "merendam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "突き当たる",
+    "kana": "tsukiataru",
+    "arti": "membentur, menabrak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "就く",
+    "kana": "tsuku",
+    "arti": "mendapat jabatan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "突く",
+    "kana": "tsuku",
+    "arti": "menusuk, menikam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "つまずく",
+    "kana": "tsumazuku",
+    "arti": "tersandung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "積み重ねる",
+    "kana": "tsumikasaneru",
+    "arti": "mengakumulasi, menumpuk/menimpa",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "繋がる",
+    "kana": "tsunagaru",
+    "arti": "terhubung",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "務まる",
+    "kana": "tsutomaru",
+    "arti": "pantas (mengemban tugas/jabatan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "勤める",
+    "kana": "tsutomeru",
+    "arti": "berdinas, bertugas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "努める",
+    "kana": "tsutomeru",
+    "arti": "berusaha, berikhtiar",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "務める",
+    "kana": "tsutomeru",
+    "arti": "menjabat, berperan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "奪う",
+    "kana": "ubau",
+    "arti": "merampas",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "打ち明ける",
+    "kana": "uchiakeru",
+    "arti": "mengungkapkan, mencurahkan (isi hati)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "打ち消す",
+    "kana": "uchimesu",
+    "arti": "menyangkal, menolak, meredam",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "餓える",
+    "kana": "ueru",
+    "arti": "menderita kelaparan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浮かべる",
+    "kana": "ukaberu",
+    "arti": "menimbulkan, mengapungkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "受け持つ",
+    "kana": "ukemotsu",
+    "arti": "bertanggung jawab",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "承る",
+    "kana": "uketamawaru",
+    "arti": "menerima, mengerti",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "浮く/浮かぶ",
+    "kana": "uku/ukabu",
+    "arti": "mengapung, timbul",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "促す",
+    "kana": "unagasu",
+    "arti": "mendesak, mendorong, menekan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "唸る",
+    "kana": "unaru",
+    "arti": "mengeram",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "頷く",
+    "kana": "unazuku",
+    "arti": "mengangguk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "裏返す",
+    "kana": "uragaesu",
+    "arti": "membalikkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "裏切る",
+    "kana": "uragiru",
+    "arti": "berkhianat, membelot",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "占う",
+    "kana": "uranau",
+    "arti": "meramal",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "うらやむ",
+    "kana": "urayamu",
+    "arti": "iri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "売り切れる",
+    "kana": "urikireru",
+    "arti": "terjual habis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薄まる/薄れる",
+    "kana": "usumaru/usureru",
+    "arti": "menjadi encer, menipis",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薄める",
+    "kana": "usumeru",
+    "arti": "mengencerkan, menipiskan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "薄れる",
+    "kana": "usureru",
+    "arti": "memudar, menjadi redum",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "疑う",
+    "kana": "utagau",
+    "arti": "mencurigai, meragukan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "うつむく",
+    "kana": "utsumuku",
+    "arti": "menundukkan kepala",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "訴える",
+    "kana": "uttaeru",
+    "arti": "complain",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "上回る",
+    "kana": "uwamawaru",
+    "arti": "melebihi, melampaui",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "敬う",
+    "kana": "uyamau",
+    "arti": "menghormati, memuliakan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分かれる",
+    "kana": "wakareru",
+    "arti": "membagi, memisah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "分け合う",
+    "kana": "wakeau",
+    "arti": "saling berbagi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "沸き上がる",
+    "kana": "wakiagaru",
+    "arti": "bergolak, mulai mendidih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "湧く",
+    "kana": "waku",
+    "arti": "memancarkan, menyemburkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "割り込む",
+    "kana": "warikomu",
+    "arti": "menerobos masuk, memotong (percakapan, barisan)",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "破れる",
+    "kana": "yabureru",
+    "arti": "robek",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "敗れる",
+    "kana": "yabureru",
+    "arti": "kalah, tidak berhasil",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "やり直す",
+    "kana": "yarinaosu",
+    "arti": "melakukan kembali, memperbaiki kembali",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "養う",
+    "kana": "yashinau",
+    "arti": "memelihara, membina, mengasuh",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "涎が出る",
+    "kana": "yodare ga deru",
+    "arti": "ileran, keluar air liur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "横切る",
+    "kana": "yokogiru",
+    "arti": "menyalib, menyelak",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "酔う",
+    "kana": "you",
+    "arti": "menjadi mabuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "予約する",
+    "kana": "yoyaku suru",
+    "arti": "memesan, membooking",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輸血する",
+    "kana": "yuketsu suru",
+    "arti": "mentransfusi darah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "緩める",
+    "kana": "yurumeru",
+    "arti": "melonggarkan, mengendurkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "緩む",
+    "kana": "yurumu",
+    "arti": "menjadi longgar, kendur",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "輸送する",
+    "kana": "yusou suru",
+    "arti": "mengangkut",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "属する",
+    "kana": "zokusuru",
+    "arti": "berafiliasi dengan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ずらす",
+    "kana": "zurasu",
+    "arti": "menggeser, mengalihkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "ずれる",
+    "kana": "zureru",
+    "arti": "bergeser, beralih",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "駆除する",
+    "kana": "kujo suru",
+    "arti": "menyingkirkan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "気絶する",
+    "kana": "kizetsu suru",
+    "arti": "pingsan",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "絶滅する",
+    "kana": "zetsumetsu suru",
+    "arti": "punah",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "拘束する",
+    "kana": "kousoku suru",
+    "arti": "terikat",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "脱出する",
+    "kana": "dasshutsu suru",
+    "arti": "melarikan diri",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "誘う",
+    "kana": "izanau",
+    "arti": "meminta, menggoda, membujuk",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "感染する",
+    "kana": "kansen suru",
+    "arti": "terinfeksi",
+    "kategori": "kata keterangan"
+  },
+  {
+    "kotoba": "観戦する",
+    "kana": "kansen suru",
+    "arti": "melihat pertandingan",
+    "kategori": "kata keterangan"
+  }
+]
